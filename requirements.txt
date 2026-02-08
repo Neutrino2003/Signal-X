@@ -1,0 +1,9 @@
+
+tensorflow>=2.10.0
+numpy
+pandas
+opencv-python
+scikit-learn
+mediapipe
+matplotlib
+pynput
