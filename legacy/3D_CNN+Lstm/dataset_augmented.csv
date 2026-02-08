@@ -1,0 +1,2161 @@
+video_id,label,label_id,frames,folder_path
+gesture_000,Index,1,30,
+gesture_001,Index,1,30,
+gesture_002,Index,1,30,
+gesture_003,Index,1,30,
+gesture_004,Index,1,30,
+gesture_005,Index,1,30,
+gesture_006,Index,1,30,
+gesture_007,Index,1,30,
+gesture_008,Index,1,30,
+gesture_009,Index,1,30,
+gesture_010,Index,1,30,
+gesture_011,Index,1,30,
+gesture_012,Index,1,30,
+gesture_013,Index,1,30,
+gesture_014,Index,1,30,
+gesture_015,Index,1,30,
+gesture_016,Index,1,30,
+gesture_017,Index,1,30,
+gesture_018,Index,1,30,
+gesture_019,Index,1,30,
+gesture_020,Index,1,30,
+gesture_021,Index,1,30,
+gesture_022,Index,1,30,
+gesture_023,Index,1,30,
+gesture_024,Index,1,30,
+gesture_025,Index,1,30,
+gesture_026,Index,1,30,
+gesture_027,Index,1,30,
+gesture_028,Index,1,30,
+gesture_029,Index,1,30,
+gesture_000,L_shape,2,30,
+gesture_001,L_shape,2,30,
+gesture_002,L_shape,2,30,
+gesture_003,L_shape,2,30,
+gesture_004,L_shape,2,30,
+gesture_005,L_shape,2,30,
+gesture_006,L_shape,2,30,
+gesture_007,L_shape,2,30,
+gesture_008,L_shape,2,30,
+gesture_009,L_shape,2,30,
+gesture_010,L_shape,2,30,
+gesture_011,L_shape,2,30,
+gesture_012,L_shape,2,30,
+gesture_013,L_shape,2,30,
+gesture_014,L_shape,2,30,
+gesture_015,L_shape,2,30,
+gesture_016,L_shape,2,30,
+gesture_017,L_shape,2,30,
+gesture_018,L_shape,2,30,
+gesture_019,L_shape,2,30,
+gesture_020,L_shape,2,30,
+gesture_021,L_shape,2,30,
+gesture_022,L_shape,2,30,
+gesture_023,L_shape,2,30,
+gesture_024,L_shape,2,30,
+gesture_025,L_shape,2,30,
+gesture_026,L_shape,2,30,
+gesture_027,L_shape,2,30,
+gesture_028,L_shape,2,30,
+gesture_029,L_shape,2,30,
+gesture_000,Close_L_shape,3,30,
+gesture_001,Close_L_shape,3,30,
+gesture_002,Close_L_shape,3,30,
+gesture_003,Close_L_shape,3,30,
+gesture_004,Close_L_shape,3,30,
+gesture_005,Close_L_shape,3,30,
+gesture_006,Close_L_shape,3,30,
+gesture_007,Close_L_shape,3,30,
+gesture_008,Close_L_shape,3,30,
+gesture_009,Close_L_shape,3,30,
+gesture_010,Close_L_shape,3,30,
+gesture_011,Close_L_shape,3,30,
+gesture_012,Close_L_shape,3,30,
+gesture_013,Close_L_shape,3,30,
+gesture_014,Close_L_shape,3,30,
+gesture_015,Close_L_shape,3,30,
+gesture_016,Close_L_shape,3,30,
+gesture_017,Close_L_shape,3,30,
+gesture_018,Close_L_shape,3,30,
+gesture_019,Close_L_shape,3,30,
+gesture_020,Close_L_shape,3,30,
+gesture_021,Close_L_shape,3,30,
+gesture_022,Close_L_shape,3,30,
+gesture_023,Close_L_shape,3,30,
+gesture_024,Close_L_shape,3,30,
+gesture_025,Close_L_shape,3,30,
+gesture_026,Close_L_shape,3,30,
+gesture_027,Close_L_shape,3,30,
+gesture_028,Close_L_shape,3,30,
+gesture_029,Close_L_shape,3,30,
+gesture_000,Swipe_left,4,30,
+gesture_001,Swipe_left,4,30,
+gesture_002,Swipe_left,4,30,
+gesture_003,Swipe_left,4,30,
+gesture_004,Swipe_left,4,30,
+gesture_005,Swipe_left,4,30,
+gesture_006,Swipe_left,4,30,
+gesture_007,Swipe_left,4,30,
+gesture_008,Swipe_left,4,30,
+gesture_009,Swipe_left,4,30,
+gesture_010,Swipe_left,4,30,
+gesture_011,Swipe_left,4,30,
+gesture_012,Swipe_left,4,30,
+gesture_013,Swipe_left,4,30,
+gesture_014,Swipe_left,4,30,
+gesture_015,Swipe_left,4,30,
+gesture_016,Swipe_left,4,30,
+gesture_017,Swipe_left,4,30,
+gesture_018,Swipe_left,4,30,
+gesture_019,Swipe_left,4,30,
+gesture_020,Swipe_left,4,30,
+gesture_021,Swipe_left,4,30,
+gesture_022,Swipe_left,4,30,
+gesture_023,Swipe_left,4,30,
+gesture_024,Swipe_left,4,30,
+gesture_025,Swipe_left,4,30,
+gesture_026,Swipe_left,4,30,
+gesture_027,Swipe_left,4,30,
+gesture_028,Swipe_left,4,30,
+gesture_029,Swipe_left,4,30,
+gesture_000,Swipe_right,5,30,
+gesture_001,Swipe_right,5,30,
+gesture_002,Swipe_right,5,30,
+gesture_003,Swipe_right,5,30,
+gesture_004,Swipe_right,5,30,
+gesture_005,Swipe_right,5,30,
+gesture_006,Swipe_right,5,30,
+gesture_007,Swipe_right,5,30,
+gesture_008,Swipe_right,5,30,
+gesture_009,Swipe_right,5,30,
+gesture_010,Swipe_right,5,30,
+gesture_011,Swipe_right,5,30,
+gesture_012,Swipe_right,5,30,
+gesture_013,Swipe_right,5,30,
+gesture_014,Swipe_right,5,30,
+gesture_015,Swipe_right,5,30,
+gesture_016,Swipe_right,5,30,
+gesture_017,Swipe_right,5,30,
+gesture_018,Swipe_right,5,30,
+gesture_019,Swipe_right,5,30,
+gesture_020,Swipe_right,5,30,
+gesture_021,Swipe_right,5,30,
+gesture_022,Swipe_right,5,30,
+gesture_023,Swipe_right,5,30,
+gesture_024,Swipe_right,5,30,
+gesture_025,Swipe_right,5,30,
+gesture_026,Swipe_right,5,30,
+gesture_027,Swipe_right,5,30,
+gesture_028,Swipe_right,5,30,
+gesture_029,Swipe_right,5,30,
+gesture_2_000,Index,1,30,
+gesture_2_001,Index,1,30,
+gesture_2_002,Index,1,30,
+gesture_2_003,Index,1,30,
+gesture_2_004,Index,1,30,
+gesture_2_005,Index,1,30,
+gesture_2_006,Index,1,30,
+gesture_2_007,Index,1,30,
+gesture_2_008,Index,1,30,
+gesture_2_009,Index,1,30,
+gesture_2_010,Index,1,30,
+gesture_2_011,Index,1,30,
+gesture_2_012,Index,1,30,
+gesture_2_013,Index,1,30,
+gesture_2_014,Index,1,30,
+gesture_2_015,Index,1,30,
+gesture_2_016,Index,1,30,
+gesture_2_017,Index,1,30,
+gesture_2_018,Index,1,30,
+gesture_2_019,Index,1,30,
+gesture_2_020,Index,1,30,
+gesture_2_021,Index,1,30,
+gesture_2_022,Index,1,30,
+gesture_2_023,Index,1,30,
+gesture_2_024,Index,1,30,
+gesture_2_025,Index,1,30,
+gesture_2_026,Index,1,30,
+gesture_2_027,Index,1,30,
+gesture_2_028,Index,1,30,
+gesture_2_029,Index,1,30,
+gesture_2_000,L_shape,2,30,
+gesture_2_001,L_shape,2,30,
+gesture_2_002,L_shape,2,30,
+gesture_2_003,L_shape,2,30,
+gesture_2_004,L_shape,2,30,
+gesture_2_005,L_shape,2,30,
+gesture_2_006,L_shape,2,30,
+gesture_2_007,L_shape,2,30,
+gesture_2_008,L_shape,2,30,
+gesture_2_009,L_shape,2,30,
+gesture_2_010,L_shape,2,30,
+gesture_2_011,L_shape,2,30,
+gesture_2_012,L_shape,2,30,
+gesture_2_013,L_shape,2,30,
+gesture_2_014,L_shape,2,30,
+gesture_2_015,L_shape,2,30,
+gesture_2_016,L_shape,2,30,
+gesture_2_017,L_shape,2,30,
+gesture_2_018,L_shape,2,30,
+gesture_2_019,L_shape,2,30,
+gesture_2_020,L_shape,2,30,
+gesture_2_021,L_shape,2,30,
+gesture_2_022,L_shape,2,30,
+gesture_2_023,L_shape,2,30,
+gesture_2_024,L_shape,2,30,
+gesture_2_025,L_shape,2,30,
+gesture_2_026,L_shape,2,30,
+gesture_2_027,L_shape,2,30,
+gesture_2_028,L_shape,2,30,
+gesture_2_029,L_shape,2,30,
+gesture_2_000,Close_L_shape,3,30,
+gesture_2_001,Close_L_shape,3,30,
+gesture_2_002,Close_L_shape,3,30,
+gesture_2_003,Close_L_shape,3,30,
+gesture_2_004,Close_L_shape,3,30,
+gesture_2_005,Close_L_shape,3,30,
+gesture_2_006,Close_L_shape,3,30,
+gesture_2_007,Close_L_shape,3,30,
+gesture_2_008,Close_L_shape,3,30,
+gesture_2_009,Close_L_shape,3,30,
+gesture_2_010,Close_L_shape,3,30,
+gesture_2_011,Close_L_shape,3,30,
+gesture_2_012,Close_L_shape,3,30,
+gesture_2_013,Close_L_shape,3,30,
+gesture_2_014,Close_L_shape,3,30,
+gesture_2_015,Close_L_shape,3,30,
+gesture_2_016,Close_L_shape,3,30,
+gesture_2_017,Close_L_shape,3,30,
+gesture_2_018,Close_L_shape,3,30,
+gesture_2_019,Close_L_shape,3,30,
+gesture_2_020,Close_L_shape,3,30,
+gesture_2_021,Close_L_shape,3,30,
+gesture_2_022,Close_L_shape,3,30,
+gesture_2_023,Close_L_shape,3,30,
+gesture_2_024,Close_L_shape,3,30,
+gesture_2_025,Close_L_shape,3,30,
+gesture_2_026,Close_L_shape,3,30,
+gesture_2_027,Close_L_shape,3,30,
+gesture_2_028,Close_L_shape,3,30,
+gesture_2_029,Close_L_shape,3,30,
+gesture_000_rot_15,Index,1,30,./Gesture Dataset/gesture_000_rot15
+gesture_000_rot_-15,Index,1,30,./Gesture Dataset/gesture_000_rot-15
+gesture_000_rot_30,Index,1,30,./Gesture Dataset/gesture_000_rot30
+gesture_000_rot_-30,Index,1,30,./Gesture Dataset/gesture_000_rot-30
+gesture_000_scale_0.8,Index,1,30,./Gesture Dataset/gesture_000_scale0.8
+gesture_000_scale_1.2,Index,1,30,./Gesture Dataset/gesture_000_scale1.2
+gesture_000_noise_10,Index,1,30,./Gesture Dataset/gesture_000_noise10
+gesture_000_noise_25,Index,1,30,./Gesture Dataset/gesture_000_noise25
+gesture_001_rot_15,Index,1,30,./Gesture Dataset/gesture_001_rot15
+gesture_001_rot_-15,Index,1,30,./Gesture Dataset/gesture_001_rot-15
+gesture_001_rot_30,Index,1,30,./Gesture Dataset/gesture_001_rot30
+gesture_001_rot_-30,Index,1,30,./Gesture Dataset/gesture_001_rot-30
+gesture_001_scale_0.8,Index,1,30,./Gesture Dataset/gesture_001_scale0.8
+gesture_001_scale_1.2,Index,1,30,./Gesture Dataset/gesture_001_scale1.2
+gesture_001_noise_10,Index,1,30,./Gesture Dataset/gesture_001_noise10
+gesture_001_noise_25,Index,1,30,./Gesture Dataset/gesture_001_noise25
+gesture_002_rot_15,Index,1,30,./Gesture Dataset/gesture_002_rot15
+gesture_002_rot_-15,Index,1,30,./Gesture Dataset/gesture_002_rot-15
+gesture_002_rot_30,Index,1,30,./Gesture Dataset/gesture_002_rot30
+gesture_002_rot_-30,Index,1,30,./Gesture Dataset/gesture_002_rot-30
+gesture_002_scale_0.8,Index,1,30,./Gesture Dataset/gesture_002_scale0.8
+gesture_002_scale_1.2,Index,1,30,./Gesture Dataset/gesture_002_scale1.2
+gesture_002_noise_10,Index,1,30,./Gesture Dataset/gesture_002_noise10
+gesture_002_noise_25,Index,1,30,./Gesture Dataset/gesture_002_noise25
+gesture_003_rot_15,Index,1,30,./Gesture Dataset/gesture_003_rot15
+gesture_003_rot_-15,Index,1,30,./Gesture Dataset/gesture_003_rot-15
+gesture_003_rot_30,Index,1,30,./Gesture Dataset/gesture_003_rot30
+gesture_003_rot_-30,Index,1,30,./Gesture Dataset/gesture_003_rot-30
+gesture_003_scale_0.8,Index,1,30,./Gesture Dataset/gesture_003_scale0.8
+gesture_003_scale_1.2,Index,1,30,./Gesture Dataset/gesture_003_scale1.2
+gesture_003_noise_10,Index,1,30,./Gesture Dataset/gesture_003_noise10
+gesture_003_noise_25,Index,1,30,./Gesture Dataset/gesture_003_noise25
+gesture_004_rot_15,Index,1,30,./Gesture Dataset/gesture_004_rot15
+gesture_004_rot_-15,Index,1,30,./Gesture Dataset/gesture_004_rot-15
+gesture_004_rot_30,Index,1,30,./Gesture Dataset/gesture_004_rot30
+gesture_004_rot_-30,Index,1,30,./Gesture Dataset/gesture_004_rot-30
+gesture_004_scale_0.8,Index,1,30,./Gesture Dataset/gesture_004_scale0.8
+gesture_004_scale_1.2,Index,1,30,./Gesture Dataset/gesture_004_scale1.2
+gesture_004_noise_10,Index,1,30,./Gesture Dataset/gesture_004_noise10
+gesture_004_noise_25,Index,1,30,./Gesture Dataset/gesture_004_noise25
+gesture_005_rot_15,Index,1,30,./Gesture Dataset/gesture_005_rot15
+gesture_005_rot_-15,Index,1,30,./Gesture Dataset/gesture_005_rot-15
+gesture_005_rot_30,Index,1,30,./Gesture Dataset/gesture_005_rot30
+gesture_005_rot_-30,Index,1,30,./Gesture Dataset/gesture_005_rot-30
+gesture_005_scale_0.8,Index,1,30,./Gesture Dataset/gesture_005_scale0.8
+gesture_005_scale_1.2,Index,1,30,./Gesture Dataset/gesture_005_scale1.2
+gesture_005_noise_10,Index,1,30,./Gesture Dataset/gesture_005_noise10
+gesture_005_noise_25,Index,1,30,./Gesture Dataset/gesture_005_noise25
+gesture_006_rot_15,Index,1,30,./Gesture Dataset/gesture_006_rot15
+gesture_006_rot_-15,Index,1,30,./Gesture Dataset/gesture_006_rot-15
+gesture_006_rot_30,Index,1,30,./Gesture Dataset/gesture_006_rot30
+gesture_006_rot_-30,Index,1,30,./Gesture Dataset/gesture_006_rot-30
+gesture_006_scale_0.8,Index,1,30,./Gesture Dataset/gesture_006_scale0.8
+gesture_006_scale_1.2,Index,1,30,./Gesture Dataset/gesture_006_scale1.2
+gesture_006_noise_10,Index,1,30,./Gesture Dataset/gesture_006_noise10
+gesture_006_noise_25,Index,1,30,./Gesture Dataset/gesture_006_noise25
+gesture_007_rot_15,Index,1,30,./Gesture Dataset/gesture_007_rot15
+gesture_007_rot_-15,Index,1,30,./Gesture Dataset/gesture_007_rot-15
+gesture_007_rot_30,Index,1,30,./Gesture Dataset/gesture_007_rot30
+gesture_007_rot_-30,Index,1,30,./Gesture Dataset/gesture_007_rot-30
+gesture_007_scale_0.8,Index,1,30,./Gesture Dataset/gesture_007_scale0.8
+gesture_007_scale_1.2,Index,1,30,./Gesture Dataset/gesture_007_scale1.2
+gesture_007_noise_10,Index,1,30,./Gesture Dataset/gesture_007_noise10
+gesture_007_noise_25,Index,1,30,./Gesture Dataset/gesture_007_noise25
+gesture_008_rot_15,Index,1,30,./Gesture Dataset/gesture_008_rot15
+gesture_008_rot_-15,Index,1,30,./Gesture Dataset/gesture_008_rot-15
+gesture_008_rot_30,Index,1,30,./Gesture Dataset/gesture_008_rot30
+gesture_008_rot_-30,Index,1,30,./Gesture Dataset/gesture_008_rot-30
+gesture_008_scale_0.8,Index,1,30,./Gesture Dataset/gesture_008_scale0.8
+gesture_008_scale_1.2,Index,1,30,./Gesture Dataset/gesture_008_scale1.2
+gesture_008_noise_10,Index,1,30,./Gesture Dataset/gesture_008_noise10
+gesture_008_noise_25,Index,1,30,./Gesture Dataset/gesture_008_noise25
+gesture_009_rot_15,Index,1,30,./Gesture Dataset/gesture_009_rot15
+gesture_009_rot_-15,Index,1,30,./Gesture Dataset/gesture_009_rot-15
+gesture_009_rot_30,Index,1,30,./Gesture Dataset/gesture_009_rot30
+gesture_009_rot_-30,Index,1,30,./Gesture Dataset/gesture_009_rot-30
+gesture_009_scale_0.8,Index,1,30,./Gesture Dataset/gesture_009_scale0.8
+gesture_009_scale_1.2,Index,1,30,./Gesture Dataset/gesture_009_scale1.2
+gesture_009_noise_10,Index,1,30,./Gesture Dataset/gesture_009_noise10
+gesture_009_noise_25,Index,1,30,./Gesture Dataset/gesture_009_noise25
+gesture_010_rot_15,Index,1,30,./Gesture Dataset/gesture_010_rot15
+gesture_010_rot_-15,Index,1,30,./Gesture Dataset/gesture_010_rot-15
+gesture_010_rot_30,Index,1,30,./Gesture Dataset/gesture_010_rot30
+gesture_010_rot_-30,Index,1,30,./Gesture Dataset/gesture_010_rot-30
+gesture_010_scale_0.8,Index,1,30,./Gesture Dataset/gesture_010_scale0.8
+gesture_010_scale_1.2,Index,1,30,./Gesture Dataset/gesture_010_scale1.2
+gesture_010_noise_10,Index,1,30,./Gesture Dataset/gesture_010_noise10
+gesture_010_noise_25,Index,1,30,./Gesture Dataset/gesture_010_noise25
+gesture_011_rot_15,Index,1,30,./Gesture Dataset/gesture_011_rot15
+gesture_011_rot_-15,Index,1,30,./Gesture Dataset/gesture_011_rot-15
+gesture_011_rot_30,Index,1,30,./Gesture Dataset/gesture_011_rot30
+gesture_011_rot_-30,Index,1,30,./Gesture Dataset/gesture_011_rot-30
+gesture_011_scale_0.8,Index,1,30,./Gesture Dataset/gesture_011_scale0.8
+gesture_011_scale_1.2,Index,1,30,./Gesture Dataset/gesture_011_scale1.2
+gesture_011_noise_10,Index,1,30,./Gesture Dataset/gesture_011_noise10
+gesture_011_noise_25,Index,1,30,./Gesture Dataset/gesture_011_noise25
+gesture_012_rot_15,Index,1,30,./Gesture Dataset/gesture_012_rot15
+gesture_012_rot_-15,Index,1,30,./Gesture Dataset/gesture_012_rot-15
+gesture_012_rot_30,Index,1,30,./Gesture Dataset/gesture_012_rot30
+gesture_012_rot_-30,Index,1,30,./Gesture Dataset/gesture_012_rot-30
+gesture_012_scale_0.8,Index,1,30,./Gesture Dataset/gesture_012_scale0.8
+gesture_012_scale_1.2,Index,1,30,./Gesture Dataset/gesture_012_scale1.2
+gesture_012_noise_10,Index,1,30,./Gesture Dataset/gesture_012_noise10
+gesture_012_noise_25,Index,1,30,./Gesture Dataset/gesture_012_noise25
+gesture_013_rot_15,Index,1,30,./Gesture Dataset/gesture_013_rot15
+gesture_013_rot_-15,Index,1,30,./Gesture Dataset/gesture_013_rot-15
+gesture_013_rot_30,Index,1,30,./Gesture Dataset/gesture_013_rot30
+gesture_013_rot_-30,Index,1,30,./Gesture Dataset/gesture_013_rot-30
+gesture_013_scale_0.8,Index,1,30,./Gesture Dataset/gesture_013_scale0.8
+gesture_013_scale_1.2,Index,1,30,./Gesture Dataset/gesture_013_scale1.2
+gesture_013_noise_10,Index,1,30,./Gesture Dataset/gesture_013_noise10
+gesture_013_noise_25,Index,1,30,./Gesture Dataset/gesture_013_noise25
+gesture_014_rot_15,Index,1,30,./Gesture Dataset/gesture_014_rot15
+gesture_014_rot_-15,Index,1,30,./Gesture Dataset/gesture_014_rot-15
+gesture_014_rot_30,Index,1,30,./Gesture Dataset/gesture_014_rot30
+gesture_014_rot_-30,Index,1,30,./Gesture Dataset/gesture_014_rot-30
+gesture_014_scale_0.8,Index,1,30,./Gesture Dataset/gesture_014_scale0.8
+gesture_014_scale_1.2,Index,1,30,./Gesture Dataset/gesture_014_scale1.2
+gesture_014_noise_10,Index,1,30,./Gesture Dataset/gesture_014_noise10
+gesture_014_noise_25,Index,1,30,./Gesture Dataset/gesture_014_noise25
+gesture_015_rot_15,Index,1,30,./Gesture Dataset/gesture_015_rot15
+gesture_015_rot_-15,Index,1,30,./Gesture Dataset/gesture_015_rot-15
+gesture_015_rot_30,Index,1,30,./Gesture Dataset/gesture_015_rot30
+gesture_015_rot_-30,Index,1,30,./Gesture Dataset/gesture_015_rot-30
+gesture_015_scale_0.8,Index,1,30,./Gesture Dataset/gesture_015_scale0.8
+gesture_015_scale_1.2,Index,1,30,./Gesture Dataset/gesture_015_scale1.2
+gesture_015_noise_10,Index,1,30,./Gesture Dataset/gesture_015_noise10
+gesture_015_noise_25,Index,1,30,./Gesture Dataset/gesture_015_noise25
+gesture_016_rot_15,Index,1,30,./Gesture Dataset/gesture_016_rot15
+gesture_016_rot_-15,Index,1,30,./Gesture Dataset/gesture_016_rot-15
+gesture_016_rot_30,Index,1,30,./Gesture Dataset/gesture_016_rot30
+gesture_016_rot_-30,Index,1,30,./Gesture Dataset/gesture_016_rot-30
+gesture_016_scale_0.8,Index,1,30,./Gesture Dataset/gesture_016_scale0.8
+gesture_016_scale_1.2,Index,1,30,./Gesture Dataset/gesture_016_scale1.2
+gesture_016_noise_10,Index,1,30,./Gesture Dataset/gesture_016_noise10
+gesture_016_noise_25,Index,1,30,./Gesture Dataset/gesture_016_noise25
+gesture_017_rot_15,Index,1,30,./Gesture Dataset/gesture_017_rot15
+gesture_017_rot_-15,Index,1,30,./Gesture Dataset/gesture_017_rot-15
+gesture_017_rot_30,Index,1,30,./Gesture Dataset/gesture_017_rot30
+gesture_017_rot_-30,Index,1,30,./Gesture Dataset/gesture_017_rot-30
+gesture_017_scale_0.8,Index,1,30,./Gesture Dataset/gesture_017_scale0.8
+gesture_017_scale_1.2,Index,1,30,./Gesture Dataset/gesture_017_scale1.2
+gesture_017_noise_10,Index,1,30,./Gesture Dataset/gesture_017_noise10
+gesture_017_noise_25,Index,1,30,./Gesture Dataset/gesture_017_noise25
+gesture_018_rot_15,Index,1,30,./Gesture Dataset/gesture_018_rot15
+gesture_018_rot_-15,Index,1,30,./Gesture Dataset/gesture_018_rot-15
+gesture_018_rot_30,Index,1,30,./Gesture Dataset/gesture_018_rot30
+gesture_018_rot_-30,Index,1,30,./Gesture Dataset/gesture_018_rot-30
+gesture_018_scale_0.8,Index,1,30,./Gesture Dataset/gesture_018_scale0.8
+gesture_018_scale_1.2,Index,1,30,./Gesture Dataset/gesture_018_scale1.2
+gesture_018_noise_10,Index,1,30,./Gesture Dataset/gesture_018_noise10
+gesture_018_noise_25,Index,1,30,./Gesture Dataset/gesture_018_noise25
+gesture_019_rot_15,Index,1,30,./Gesture Dataset/gesture_019_rot15
+gesture_019_rot_-15,Index,1,30,./Gesture Dataset/gesture_019_rot-15
+gesture_019_rot_30,Index,1,30,./Gesture Dataset/gesture_019_rot30
+gesture_019_rot_-30,Index,1,30,./Gesture Dataset/gesture_019_rot-30
+gesture_019_scale_0.8,Index,1,30,./Gesture Dataset/gesture_019_scale0.8
+gesture_019_scale_1.2,Index,1,30,./Gesture Dataset/gesture_019_scale1.2
+gesture_019_noise_10,Index,1,30,./Gesture Dataset/gesture_019_noise10
+gesture_019_noise_25,Index,1,30,./Gesture Dataset/gesture_019_noise25
+gesture_020_rot_15,Index,1,30,./Gesture Dataset/gesture_020_rot15
+gesture_020_rot_-15,Index,1,30,./Gesture Dataset/gesture_020_rot-15
+gesture_020_rot_30,Index,1,30,./Gesture Dataset/gesture_020_rot30
+gesture_020_rot_-30,Index,1,30,./Gesture Dataset/gesture_020_rot-30
+gesture_020_scale_0.8,Index,1,30,./Gesture Dataset/gesture_020_scale0.8
+gesture_020_scale_1.2,Index,1,30,./Gesture Dataset/gesture_020_scale1.2
+gesture_020_noise_10,Index,1,30,./Gesture Dataset/gesture_020_noise10
+gesture_020_noise_25,Index,1,30,./Gesture Dataset/gesture_020_noise25
+gesture_021_rot_15,Index,1,30,./Gesture Dataset/gesture_021_rot15
+gesture_021_rot_-15,Index,1,30,./Gesture Dataset/gesture_021_rot-15
+gesture_021_rot_30,Index,1,30,./Gesture Dataset/gesture_021_rot30
+gesture_021_rot_-30,Index,1,30,./Gesture Dataset/gesture_021_rot-30
+gesture_021_scale_0.8,Index,1,30,./Gesture Dataset/gesture_021_scale0.8
+gesture_021_scale_1.2,Index,1,30,./Gesture Dataset/gesture_021_scale1.2
+gesture_021_noise_10,Index,1,30,./Gesture Dataset/gesture_021_noise10
+gesture_021_noise_25,Index,1,30,./Gesture Dataset/gesture_021_noise25
+gesture_022_rot_15,Index,1,30,./Gesture Dataset/gesture_022_rot15
+gesture_022_rot_-15,Index,1,30,./Gesture Dataset/gesture_022_rot-15
+gesture_022_rot_30,Index,1,30,./Gesture Dataset/gesture_022_rot30
+gesture_022_rot_-30,Index,1,30,./Gesture Dataset/gesture_022_rot-30
+gesture_022_scale_0.8,Index,1,30,./Gesture Dataset/gesture_022_scale0.8
+gesture_022_scale_1.2,Index,1,30,./Gesture Dataset/gesture_022_scale1.2
+gesture_022_noise_10,Index,1,30,./Gesture Dataset/gesture_022_noise10
+gesture_022_noise_25,Index,1,30,./Gesture Dataset/gesture_022_noise25
+gesture_023_rot_15,Index,1,30,./Gesture Dataset/gesture_023_rot15
+gesture_023_rot_-15,Index,1,30,./Gesture Dataset/gesture_023_rot-15
+gesture_023_rot_30,Index,1,30,./Gesture Dataset/gesture_023_rot30
+gesture_023_rot_-30,Index,1,30,./Gesture Dataset/gesture_023_rot-30
+gesture_023_scale_0.8,Index,1,30,./Gesture Dataset/gesture_023_scale0.8
+gesture_023_scale_1.2,Index,1,30,./Gesture Dataset/gesture_023_scale1.2
+gesture_023_noise_10,Index,1,30,./Gesture Dataset/gesture_023_noise10
+gesture_023_noise_25,Index,1,30,./Gesture Dataset/gesture_023_noise25
+gesture_024_rot_15,Index,1,30,./Gesture Dataset/gesture_024_rot15
+gesture_024_rot_-15,Index,1,30,./Gesture Dataset/gesture_024_rot-15
+gesture_024_rot_30,Index,1,30,./Gesture Dataset/gesture_024_rot30
+gesture_024_rot_-30,Index,1,30,./Gesture Dataset/gesture_024_rot-30
+gesture_024_scale_0.8,Index,1,30,./Gesture Dataset/gesture_024_scale0.8
+gesture_024_scale_1.2,Index,1,30,./Gesture Dataset/gesture_024_scale1.2
+gesture_024_noise_10,Index,1,30,./Gesture Dataset/gesture_024_noise10
+gesture_024_noise_25,Index,1,30,./Gesture Dataset/gesture_024_noise25
+gesture_025_rot_15,Index,1,30,./Gesture Dataset/gesture_025_rot15
+gesture_025_rot_-15,Index,1,30,./Gesture Dataset/gesture_025_rot-15
+gesture_025_rot_30,Index,1,30,./Gesture Dataset/gesture_025_rot30
+gesture_025_rot_-30,Index,1,30,./Gesture Dataset/gesture_025_rot-30
+gesture_025_scale_0.8,Index,1,30,./Gesture Dataset/gesture_025_scale0.8
+gesture_025_scale_1.2,Index,1,30,./Gesture Dataset/gesture_025_scale1.2
+gesture_025_noise_10,Index,1,30,./Gesture Dataset/gesture_025_noise10
+gesture_025_noise_25,Index,1,30,./Gesture Dataset/gesture_025_noise25
+gesture_026_rot_15,Index,1,30,./Gesture Dataset/gesture_026_rot15
+gesture_026_rot_-15,Index,1,30,./Gesture Dataset/gesture_026_rot-15
+gesture_026_rot_30,Index,1,30,./Gesture Dataset/gesture_026_rot30
+gesture_026_rot_-30,Index,1,30,./Gesture Dataset/gesture_026_rot-30
+gesture_026_scale_0.8,Index,1,30,./Gesture Dataset/gesture_026_scale0.8
+gesture_026_scale_1.2,Index,1,30,./Gesture Dataset/gesture_026_scale1.2
+gesture_026_noise_10,Index,1,30,./Gesture Dataset/gesture_026_noise10
+gesture_026_noise_25,Index,1,30,./Gesture Dataset/gesture_026_noise25
+gesture_027_rot_15,Index,1,30,./Gesture Dataset/gesture_027_rot15
+gesture_027_rot_-15,Index,1,30,./Gesture Dataset/gesture_027_rot-15
+gesture_027_rot_30,Index,1,30,./Gesture Dataset/gesture_027_rot30
+gesture_027_rot_-30,Index,1,30,./Gesture Dataset/gesture_027_rot-30
+gesture_027_scale_0.8,Index,1,30,./Gesture Dataset/gesture_027_scale0.8
+gesture_027_scale_1.2,Index,1,30,./Gesture Dataset/gesture_027_scale1.2
+gesture_027_noise_10,Index,1,30,./Gesture Dataset/gesture_027_noise10
+gesture_027_noise_25,Index,1,30,./Gesture Dataset/gesture_027_noise25
+gesture_028_rot_15,Index,1,30,./Gesture Dataset/gesture_028_rot15
+gesture_028_rot_-15,Index,1,30,./Gesture Dataset/gesture_028_rot-15
+gesture_028_rot_30,Index,1,30,./Gesture Dataset/gesture_028_rot30
+gesture_028_rot_-30,Index,1,30,./Gesture Dataset/gesture_028_rot-30
+gesture_028_scale_0.8,Index,1,30,./Gesture Dataset/gesture_028_scale0.8
+gesture_028_scale_1.2,Index,1,30,./Gesture Dataset/gesture_028_scale1.2
+gesture_028_noise_10,Index,1,30,./Gesture Dataset/gesture_028_noise10
+gesture_028_noise_25,Index,1,30,./Gesture Dataset/gesture_028_noise25
+gesture_029_rot_15,Index,1,30,./Gesture Dataset/gesture_029_rot15
+gesture_029_rot_-15,Index,1,30,./Gesture Dataset/gesture_029_rot-15
+gesture_029_rot_30,Index,1,30,./Gesture Dataset/gesture_029_rot30
+gesture_029_rot_-30,Index,1,30,./Gesture Dataset/gesture_029_rot-30
+gesture_029_scale_0.8,Index,1,30,./Gesture Dataset/gesture_029_scale0.8
+gesture_029_scale_1.2,Index,1,30,./Gesture Dataset/gesture_029_scale1.2
+gesture_029_noise_10,Index,1,30,./Gesture Dataset/gesture_029_noise10
+gesture_029_noise_25,Index,1,30,./Gesture Dataset/gesture_029_noise25
+gesture_000_rot_15,L_shape,2,30,./Gesture Dataset/gesture_000_rot15
+gesture_000_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_000_rot-15
+gesture_000_rot_30,L_shape,2,30,./Gesture Dataset/gesture_000_rot30
+gesture_000_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_000_rot-30
+gesture_000_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_000_scale0.8
+gesture_000_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_000_scale1.2
+gesture_000_noise_10,L_shape,2,30,./Gesture Dataset/gesture_000_noise10
+gesture_000_noise_25,L_shape,2,30,./Gesture Dataset/gesture_000_noise25
+gesture_001_rot_15,L_shape,2,30,./Gesture Dataset/gesture_001_rot15
+gesture_001_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_001_rot-15
+gesture_001_rot_30,L_shape,2,30,./Gesture Dataset/gesture_001_rot30
+gesture_001_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_001_rot-30
+gesture_001_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_001_scale0.8
+gesture_001_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_001_scale1.2
+gesture_001_noise_10,L_shape,2,30,./Gesture Dataset/gesture_001_noise10
+gesture_001_noise_25,L_shape,2,30,./Gesture Dataset/gesture_001_noise25
+gesture_002_rot_15,L_shape,2,30,./Gesture Dataset/gesture_002_rot15
+gesture_002_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_002_rot-15
+gesture_002_rot_30,L_shape,2,30,./Gesture Dataset/gesture_002_rot30
+gesture_002_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_002_rot-30
+gesture_002_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_002_scale0.8
+gesture_002_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_002_scale1.2
+gesture_002_noise_10,L_shape,2,30,./Gesture Dataset/gesture_002_noise10
+gesture_002_noise_25,L_shape,2,30,./Gesture Dataset/gesture_002_noise25
+gesture_003_rot_15,L_shape,2,30,./Gesture Dataset/gesture_003_rot15
+gesture_003_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_003_rot-15
+gesture_003_rot_30,L_shape,2,30,./Gesture Dataset/gesture_003_rot30
+gesture_003_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_003_rot-30
+gesture_003_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_003_scale0.8
+gesture_003_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_003_scale1.2
+gesture_003_noise_10,L_shape,2,30,./Gesture Dataset/gesture_003_noise10
+gesture_003_noise_25,L_shape,2,30,./Gesture Dataset/gesture_003_noise25
+gesture_004_rot_15,L_shape,2,30,./Gesture Dataset/gesture_004_rot15
+gesture_004_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_004_rot-15
+gesture_004_rot_30,L_shape,2,30,./Gesture Dataset/gesture_004_rot30
+gesture_004_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_004_rot-30
+gesture_004_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_004_scale0.8
+gesture_004_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_004_scale1.2
+gesture_004_noise_10,L_shape,2,30,./Gesture Dataset/gesture_004_noise10
+gesture_004_noise_25,L_shape,2,30,./Gesture Dataset/gesture_004_noise25
+gesture_005_rot_15,L_shape,2,30,./Gesture Dataset/gesture_005_rot15
+gesture_005_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_005_rot-15
+gesture_005_rot_30,L_shape,2,30,./Gesture Dataset/gesture_005_rot30
+gesture_005_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_005_rot-30
+gesture_005_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_005_scale0.8
+gesture_005_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_005_scale1.2
+gesture_005_noise_10,L_shape,2,30,./Gesture Dataset/gesture_005_noise10
+gesture_005_noise_25,L_shape,2,30,./Gesture Dataset/gesture_005_noise25
+gesture_006_rot_15,L_shape,2,30,./Gesture Dataset/gesture_006_rot15
+gesture_006_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_006_rot-15
+gesture_006_rot_30,L_shape,2,30,./Gesture Dataset/gesture_006_rot30
+gesture_006_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_006_rot-30
+gesture_006_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_006_scale0.8
+gesture_006_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_006_scale1.2
+gesture_006_noise_10,L_shape,2,30,./Gesture Dataset/gesture_006_noise10
+gesture_006_noise_25,L_shape,2,30,./Gesture Dataset/gesture_006_noise25
+gesture_007_rot_15,L_shape,2,30,./Gesture Dataset/gesture_007_rot15
+gesture_007_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_007_rot-15
+gesture_007_rot_30,L_shape,2,30,./Gesture Dataset/gesture_007_rot30
+gesture_007_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_007_rot-30
+gesture_007_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_007_scale0.8
+gesture_007_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_007_scale1.2
+gesture_007_noise_10,L_shape,2,30,./Gesture Dataset/gesture_007_noise10
+gesture_007_noise_25,L_shape,2,30,./Gesture Dataset/gesture_007_noise25
+gesture_008_rot_15,L_shape,2,30,./Gesture Dataset/gesture_008_rot15
+gesture_008_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_008_rot-15
+gesture_008_rot_30,L_shape,2,30,./Gesture Dataset/gesture_008_rot30
+gesture_008_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_008_rot-30
+gesture_008_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_008_scale0.8
+gesture_008_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_008_scale1.2
+gesture_008_noise_10,L_shape,2,30,./Gesture Dataset/gesture_008_noise10
+gesture_008_noise_25,L_shape,2,30,./Gesture Dataset/gesture_008_noise25
+gesture_009_rot_15,L_shape,2,30,./Gesture Dataset/gesture_009_rot15
+gesture_009_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_009_rot-15
+gesture_009_rot_30,L_shape,2,30,./Gesture Dataset/gesture_009_rot30
+gesture_009_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_009_rot-30
+gesture_009_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_009_scale0.8
+gesture_009_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_009_scale1.2
+gesture_009_noise_10,L_shape,2,30,./Gesture Dataset/gesture_009_noise10
+gesture_009_noise_25,L_shape,2,30,./Gesture Dataset/gesture_009_noise25
+gesture_010_rot_15,L_shape,2,30,./Gesture Dataset/gesture_010_rot15
+gesture_010_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_010_rot-15
+gesture_010_rot_30,L_shape,2,30,./Gesture Dataset/gesture_010_rot30
+gesture_010_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_010_rot-30
+gesture_010_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_010_scale0.8
+gesture_010_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_010_scale1.2
+gesture_010_noise_10,L_shape,2,30,./Gesture Dataset/gesture_010_noise10
+gesture_010_noise_25,L_shape,2,30,./Gesture Dataset/gesture_010_noise25
+gesture_011_rot_15,L_shape,2,30,./Gesture Dataset/gesture_011_rot15
+gesture_011_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_011_rot-15
+gesture_011_rot_30,L_shape,2,30,./Gesture Dataset/gesture_011_rot30
+gesture_011_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_011_rot-30
+gesture_011_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_011_scale0.8
+gesture_011_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_011_scale1.2
+gesture_011_noise_10,L_shape,2,30,./Gesture Dataset/gesture_011_noise10
+gesture_011_noise_25,L_shape,2,30,./Gesture Dataset/gesture_011_noise25
+gesture_012_rot_15,L_shape,2,30,./Gesture Dataset/gesture_012_rot15
+gesture_012_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_012_rot-15
+gesture_012_rot_30,L_shape,2,30,./Gesture Dataset/gesture_012_rot30
+gesture_012_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_012_rot-30
+gesture_012_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_012_scale0.8
+gesture_012_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_012_scale1.2
+gesture_012_noise_10,L_shape,2,30,./Gesture Dataset/gesture_012_noise10
+gesture_012_noise_25,L_shape,2,30,./Gesture Dataset/gesture_012_noise25
+gesture_013_rot_15,L_shape,2,30,./Gesture Dataset/gesture_013_rot15
+gesture_013_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_013_rot-15
+gesture_013_rot_30,L_shape,2,30,./Gesture Dataset/gesture_013_rot30
+gesture_013_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_013_rot-30
+gesture_013_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_013_scale0.8
+gesture_013_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_013_scale1.2
+gesture_013_noise_10,L_shape,2,30,./Gesture Dataset/gesture_013_noise10
+gesture_013_noise_25,L_shape,2,30,./Gesture Dataset/gesture_013_noise25
+gesture_014_rot_15,L_shape,2,30,./Gesture Dataset/gesture_014_rot15
+gesture_014_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_014_rot-15
+gesture_014_rot_30,L_shape,2,30,./Gesture Dataset/gesture_014_rot30
+gesture_014_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_014_rot-30
+gesture_014_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_014_scale0.8
+gesture_014_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_014_scale1.2
+gesture_014_noise_10,L_shape,2,30,./Gesture Dataset/gesture_014_noise10
+gesture_014_noise_25,L_shape,2,30,./Gesture Dataset/gesture_014_noise25
+gesture_015_rot_15,L_shape,2,30,./Gesture Dataset/gesture_015_rot15
+gesture_015_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_015_rot-15
+gesture_015_rot_30,L_shape,2,30,./Gesture Dataset/gesture_015_rot30
+gesture_015_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_015_rot-30
+gesture_015_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_015_scale0.8
+gesture_015_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_015_scale1.2
+gesture_015_noise_10,L_shape,2,30,./Gesture Dataset/gesture_015_noise10
+gesture_015_noise_25,L_shape,2,30,./Gesture Dataset/gesture_015_noise25
+gesture_016_rot_15,L_shape,2,30,./Gesture Dataset/gesture_016_rot15
+gesture_016_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_016_rot-15
+gesture_016_rot_30,L_shape,2,30,./Gesture Dataset/gesture_016_rot30
+gesture_016_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_016_rot-30
+gesture_016_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_016_scale0.8
+gesture_016_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_016_scale1.2
+gesture_016_noise_10,L_shape,2,30,./Gesture Dataset/gesture_016_noise10
+gesture_016_noise_25,L_shape,2,30,./Gesture Dataset/gesture_016_noise25
+gesture_017_rot_15,L_shape,2,30,./Gesture Dataset/gesture_017_rot15
+gesture_017_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_017_rot-15
+gesture_017_rot_30,L_shape,2,30,./Gesture Dataset/gesture_017_rot30
+gesture_017_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_017_rot-30
+gesture_017_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_017_scale0.8
+gesture_017_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_017_scale1.2
+gesture_017_noise_10,L_shape,2,30,./Gesture Dataset/gesture_017_noise10
+gesture_017_noise_25,L_shape,2,30,./Gesture Dataset/gesture_017_noise25
+gesture_018_rot_15,L_shape,2,30,./Gesture Dataset/gesture_018_rot15
+gesture_018_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_018_rot-15
+gesture_018_rot_30,L_shape,2,30,./Gesture Dataset/gesture_018_rot30
+gesture_018_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_018_rot-30
+gesture_018_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_018_scale0.8
+gesture_018_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_018_scale1.2
+gesture_018_noise_10,L_shape,2,30,./Gesture Dataset/gesture_018_noise10
+gesture_018_noise_25,L_shape,2,30,./Gesture Dataset/gesture_018_noise25
+gesture_019_rot_15,L_shape,2,30,./Gesture Dataset/gesture_019_rot15
+gesture_019_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_019_rot-15
+gesture_019_rot_30,L_shape,2,30,./Gesture Dataset/gesture_019_rot30
+gesture_019_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_019_rot-30
+gesture_019_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_019_scale0.8
+gesture_019_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_019_scale1.2
+gesture_019_noise_10,L_shape,2,30,./Gesture Dataset/gesture_019_noise10
+gesture_019_noise_25,L_shape,2,30,./Gesture Dataset/gesture_019_noise25
+gesture_020_rot_15,L_shape,2,30,./Gesture Dataset/gesture_020_rot15
+gesture_020_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_020_rot-15
+gesture_020_rot_30,L_shape,2,30,./Gesture Dataset/gesture_020_rot30
+gesture_020_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_020_rot-30
+gesture_020_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_020_scale0.8
+gesture_020_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_020_scale1.2
+gesture_020_noise_10,L_shape,2,30,./Gesture Dataset/gesture_020_noise10
+gesture_020_noise_25,L_shape,2,30,./Gesture Dataset/gesture_020_noise25
+gesture_021_rot_15,L_shape,2,30,./Gesture Dataset/gesture_021_rot15
+gesture_021_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_021_rot-15
+gesture_021_rot_30,L_shape,2,30,./Gesture Dataset/gesture_021_rot30
+gesture_021_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_021_rot-30
+gesture_021_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_021_scale0.8
+gesture_021_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_021_scale1.2
+gesture_021_noise_10,L_shape,2,30,./Gesture Dataset/gesture_021_noise10
+gesture_021_noise_25,L_shape,2,30,./Gesture Dataset/gesture_021_noise25
+gesture_022_rot_15,L_shape,2,30,./Gesture Dataset/gesture_022_rot15
+gesture_022_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_022_rot-15
+gesture_022_rot_30,L_shape,2,30,./Gesture Dataset/gesture_022_rot30
+gesture_022_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_022_rot-30
+gesture_022_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_022_scale0.8
+gesture_022_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_022_scale1.2
+gesture_022_noise_10,L_shape,2,30,./Gesture Dataset/gesture_022_noise10
+gesture_022_noise_25,L_shape,2,30,./Gesture Dataset/gesture_022_noise25
+gesture_023_rot_15,L_shape,2,30,./Gesture Dataset/gesture_023_rot15
+gesture_023_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_023_rot-15
+gesture_023_rot_30,L_shape,2,30,./Gesture Dataset/gesture_023_rot30
+gesture_023_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_023_rot-30
+gesture_023_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_023_scale0.8
+gesture_023_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_023_scale1.2
+gesture_023_noise_10,L_shape,2,30,./Gesture Dataset/gesture_023_noise10
+gesture_023_noise_25,L_shape,2,30,./Gesture Dataset/gesture_023_noise25
+gesture_024_rot_15,L_shape,2,30,./Gesture Dataset/gesture_024_rot15
+gesture_024_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_024_rot-15
+gesture_024_rot_30,L_shape,2,30,./Gesture Dataset/gesture_024_rot30
+gesture_024_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_024_rot-30
+gesture_024_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_024_scale0.8
+gesture_024_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_024_scale1.2
+gesture_024_noise_10,L_shape,2,30,./Gesture Dataset/gesture_024_noise10
+gesture_024_noise_25,L_shape,2,30,./Gesture Dataset/gesture_024_noise25
+gesture_025_rot_15,L_shape,2,30,./Gesture Dataset/gesture_025_rot15
+gesture_025_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_025_rot-15
+gesture_025_rot_30,L_shape,2,30,./Gesture Dataset/gesture_025_rot30
+gesture_025_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_025_rot-30
+gesture_025_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_025_scale0.8
+gesture_025_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_025_scale1.2
+gesture_025_noise_10,L_shape,2,30,./Gesture Dataset/gesture_025_noise10
+gesture_025_noise_25,L_shape,2,30,./Gesture Dataset/gesture_025_noise25
+gesture_026_rot_15,L_shape,2,30,./Gesture Dataset/gesture_026_rot15
+gesture_026_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_026_rot-15
+gesture_026_rot_30,L_shape,2,30,./Gesture Dataset/gesture_026_rot30
+gesture_026_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_026_rot-30
+gesture_026_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_026_scale0.8
+gesture_026_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_026_scale1.2
+gesture_026_noise_10,L_shape,2,30,./Gesture Dataset/gesture_026_noise10
+gesture_026_noise_25,L_shape,2,30,./Gesture Dataset/gesture_026_noise25
+gesture_027_rot_15,L_shape,2,30,./Gesture Dataset/gesture_027_rot15
+gesture_027_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_027_rot-15
+gesture_027_rot_30,L_shape,2,30,./Gesture Dataset/gesture_027_rot30
+gesture_027_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_027_rot-30
+gesture_027_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_027_scale0.8
+gesture_027_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_027_scale1.2
+gesture_027_noise_10,L_shape,2,30,./Gesture Dataset/gesture_027_noise10
+gesture_027_noise_25,L_shape,2,30,./Gesture Dataset/gesture_027_noise25
+gesture_028_rot_15,L_shape,2,30,./Gesture Dataset/gesture_028_rot15
+gesture_028_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_028_rot-15
+gesture_028_rot_30,L_shape,2,30,./Gesture Dataset/gesture_028_rot30
+gesture_028_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_028_rot-30
+gesture_028_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_028_scale0.8
+gesture_028_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_028_scale1.2
+gesture_028_noise_10,L_shape,2,30,./Gesture Dataset/gesture_028_noise10
+gesture_028_noise_25,L_shape,2,30,./Gesture Dataset/gesture_028_noise25
+gesture_029_rot_15,L_shape,2,30,./Gesture Dataset/gesture_029_rot15
+gesture_029_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_029_rot-15
+gesture_029_rot_30,L_shape,2,30,./Gesture Dataset/gesture_029_rot30
+gesture_029_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_029_rot-30
+gesture_029_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_029_scale0.8
+gesture_029_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_029_scale1.2
+gesture_029_noise_10,L_shape,2,30,./Gesture Dataset/gesture_029_noise10
+gesture_029_noise_25,L_shape,2,30,./Gesture Dataset/gesture_029_noise25
+gesture_000_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_000_rot15
+gesture_000_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_000_rot-15
+gesture_000_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_000_rot30
+gesture_000_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_000_rot-30
+gesture_000_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_000_scale0.8
+gesture_000_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_000_scale1.2
+gesture_000_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_000_noise10
+gesture_000_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_000_noise25
+gesture_001_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_001_rot15
+gesture_001_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_001_rot-15
+gesture_001_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_001_rot30
+gesture_001_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_001_rot-30
+gesture_001_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_001_scale0.8
+gesture_001_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_001_scale1.2
+gesture_001_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_001_noise10
+gesture_001_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_001_noise25
+gesture_002_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_002_rot15
+gesture_002_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_002_rot-15
+gesture_002_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_002_rot30
+gesture_002_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_002_rot-30
+gesture_002_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_002_scale0.8
+gesture_002_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_002_scale1.2
+gesture_002_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_002_noise10
+gesture_002_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_002_noise25
+gesture_003_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_003_rot15
+gesture_003_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_003_rot-15
+gesture_003_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_003_rot30
+gesture_003_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_003_rot-30
+gesture_003_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_003_scale0.8
+gesture_003_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_003_scale1.2
+gesture_003_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_003_noise10
+gesture_003_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_003_noise25
+gesture_004_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_004_rot15
+gesture_004_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_004_rot-15
+gesture_004_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_004_rot30
+gesture_004_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_004_rot-30
+gesture_004_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_004_scale0.8
+gesture_004_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_004_scale1.2
+gesture_004_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_004_noise10
+gesture_004_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_004_noise25
+gesture_005_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_005_rot15
+gesture_005_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_005_rot-15
+gesture_005_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_005_rot30
+gesture_005_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_005_rot-30
+gesture_005_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_005_scale0.8
+gesture_005_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_005_scale1.2
+gesture_005_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_005_noise10
+gesture_005_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_005_noise25
+gesture_006_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_006_rot15
+gesture_006_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_006_rot-15
+gesture_006_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_006_rot30
+gesture_006_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_006_rot-30
+gesture_006_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_006_scale0.8
+gesture_006_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_006_scale1.2
+gesture_006_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_006_noise10
+gesture_006_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_006_noise25
+gesture_007_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_007_rot15
+gesture_007_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_007_rot-15
+gesture_007_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_007_rot30
+gesture_007_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_007_rot-30
+gesture_007_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_007_scale0.8
+gesture_007_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_007_scale1.2
+gesture_007_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_007_noise10
+gesture_007_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_007_noise25
+gesture_008_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_008_rot15
+gesture_008_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_008_rot-15
+gesture_008_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_008_rot30
+gesture_008_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_008_rot-30
+gesture_008_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_008_scale0.8
+gesture_008_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_008_scale1.2
+gesture_008_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_008_noise10
+gesture_008_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_008_noise25
+gesture_009_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_009_rot15
+gesture_009_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_009_rot-15
+gesture_009_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_009_rot30
+gesture_009_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_009_rot-30
+gesture_009_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_009_scale0.8
+gesture_009_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_009_scale1.2
+gesture_009_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_009_noise10
+gesture_009_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_009_noise25
+gesture_010_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_010_rot15
+gesture_010_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_010_rot-15
+gesture_010_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_010_rot30
+gesture_010_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_010_rot-30
+gesture_010_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_010_scale0.8
+gesture_010_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_010_scale1.2
+gesture_010_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_010_noise10
+gesture_010_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_010_noise25
+gesture_011_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_011_rot15
+gesture_011_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_011_rot-15
+gesture_011_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_011_rot30
+gesture_011_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_011_rot-30
+gesture_011_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_011_scale0.8
+gesture_011_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_011_scale1.2
+gesture_011_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_011_noise10
+gesture_011_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_011_noise25
+gesture_012_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_012_rot15
+gesture_012_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_012_rot-15
+gesture_012_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_012_rot30
+gesture_012_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_012_rot-30
+gesture_012_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_012_scale0.8
+gesture_012_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_012_scale1.2
+gesture_012_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_012_noise10
+gesture_012_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_012_noise25
+gesture_013_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_013_rot15
+gesture_013_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_013_rot-15
+gesture_013_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_013_rot30
+gesture_013_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_013_rot-30
+gesture_013_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_013_scale0.8
+gesture_013_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_013_scale1.2
+gesture_013_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_013_noise10
+gesture_013_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_013_noise25
+gesture_014_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_014_rot15
+gesture_014_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_014_rot-15
+gesture_014_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_014_rot30
+gesture_014_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_014_rot-30
+gesture_014_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_014_scale0.8
+gesture_014_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_014_scale1.2
+gesture_014_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_014_noise10
+gesture_014_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_014_noise25
+gesture_015_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_015_rot15
+gesture_015_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_015_rot-15
+gesture_015_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_015_rot30
+gesture_015_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_015_rot-30
+gesture_015_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_015_scale0.8
+gesture_015_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_015_scale1.2
+gesture_015_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_015_noise10
+gesture_015_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_015_noise25
+gesture_016_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_016_rot15
+gesture_016_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_016_rot-15
+gesture_016_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_016_rot30
+gesture_016_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_016_rot-30
+gesture_016_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_016_scale0.8
+gesture_016_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_016_scale1.2
+gesture_016_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_016_noise10
+gesture_016_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_016_noise25
+gesture_017_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_017_rot15
+gesture_017_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_017_rot-15
+gesture_017_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_017_rot30
+gesture_017_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_017_rot-30
+gesture_017_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_017_scale0.8
+gesture_017_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_017_scale1.2
+gesture_017_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_017_noise10
+gesture_017_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_017_noise25
+gesture_018_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_018_rot15
+gesture_018_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_018_rot-15
+gesture_018_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_018_rot30
+gesture_018_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_018_rot-30
+gesture_018_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_018_scale0.8
+gesture_018_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_018_scale1.2
+gesture_018_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_018_noise10
+gesture_018_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_018_noise25
+gesture_019_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_019_rot15
+gesture_019_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_019_rot-15
+gesture_019_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_019_rot30
+gesture_019_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_019_rot-30
+gesture_019_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_019_scale0.8
+gesture_019_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_019_scale1.2
+gesture_019_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_019_noise10
+gesture_019_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_019_noise25
+gesture_020_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_020_rot15
+gesture_020_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_020_rot-15
+gesture_020_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_020_rot30
+gesture_020_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_020_rot-30
+gesture_020_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_020_scale0.8
+gesture_020_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_020_scale1.2
+gesture_020_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_020_noise10
+gesture_020_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_020_noise25
+gesture_021_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_021_rot15
+gesture_021_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_021_rot-15
+gesture_021_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_021_rot30
+gesture_021_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_021_rot-30
+gesture_021_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_021_scale0.8
+gesture_021_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_021_scale1.2
+gesture_021_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_021_noise10
+gesture_021_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_021_noise25
+gesture_022_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_022_rot15
+gesture_022_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_022_rot-15
+gesture_022_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_022_rot30
+gesture_022_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_022_rot-30
+gesture_022_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_022_scale0.8
+gesture_022_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_022_scale1.2
+gesture_022_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_022_noise10
+gesture_022_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_022_noise25
+gesture_023_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_023_rot15
+gesture_023_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_023_rot-15
+gesture_023_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_023_rot30
+gesture_023_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_023_rot-30
+gesture_023_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_023_scale0.8
+gesture_023_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_023_scale1.2
+gesture_023_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_023_noise10
+gesture_023_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_023_noise25
+gesture_024_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_024_rot15
+gesture_024_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_024_rot-15
+gesture_024_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_024_rot30
+gesture_024_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_024_rot-30
+gesture_024_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_024_scale0.8
+gesture_024_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_024_scale1.2
+gesture_024_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_024_noise10
+gesture_024_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_024_noise25
+gesture_025_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_025_rot15
+gesture_025_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_025_rot-15
+gesture_025_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_025_rot30
+gesture_025_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_025_rot-30
+gesture_025_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_025_scale0.8
+gesture_025_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_025_scale1.2
+gesture_025_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_025_noise10
+gesture_025_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_025_noise25
+gesture_026_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_026_rot15
+gesture_026_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_026_rot-15
+gesture_026_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_026_rot30
+gesture_026_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_026_rot-30
+gesture_026_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_026_scale0.8
+gesture_026_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_026_scale1.2
+gesture_026_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_026_noise10
+gesture_026_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_026_noise25
+gesture_027_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_027_rot15
+gesture_027_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_027_rot-15
+gesture_027_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_027_rot30
+gesture_027_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_027_rot-30
+gesture_027_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_027_scale0.8
+gesture_027_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_027_scale1.2
+gesture_027_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_027_noise10
+gesture_027_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_027_noise25
+gesture_028_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_028_rot15
+gesture_028_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_028_rot-15
+gesture_028_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_028_rot30
+gesture_028_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_028_rot-30
+gesture_028_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_028_scale0.8
+gesture_028_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_028_scale1.2
+gesture_028_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_028_noise10
+gesture_028_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_028_noise25
+gesture_029_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_029_rot15
+gesture_029_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_029_rot-15
+gesture_029_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_029_rot30
+gesture_029_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_029_rot-30
+gesture_029_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_029_scale0.8
+gesture_029_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_029_scale1.2
+gesture_029_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_029_noise10
+gesture_029_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_029_noise25
+gesture_000_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_000_rot15
+gesture_000_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_000_rot-15
+gesture_000_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_000_rot30
+gesture_000_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_000_rot-30
+gesture_000_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_000_scale0.8
+gesture_000_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_000_scale1.2
+gesture_000_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_000_noise10
+gesture_000_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_000_noise25
+gesture_001_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_001_rot15
+gesture_001_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_001_rot-15
+gesture_001_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_001_rot30
+gesture_001_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_001_rot-30
+gesture_001_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_001_scale0.8
+gesture_001_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_001_scale1.2
+gesture_001_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_001_noise10
+gesture_001_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_001_noise25
+gesture_002_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_002_rot15
+gesture_002_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_002_rot-15
+gesture_002_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_002_rot30
+gesture_002_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_002_rot-30
+gesture_002_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_002_scale0.8
+gesture_002_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_002_scale1.2
+gesture_002_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_002_noise10
+gesture_002_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_002_noise25
+gesture_003_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_003_rot15
+gesture_003_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_003_rot-15
+gesture_003_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_003_rot30
+gesture_003_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_003_rot-30
+gesture_003_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_003_scale0.8
+gesture_003_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_003_scale1.2
+gesture_003_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_003_noise10
+gesture_003_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_003_noise25
+gesture_004_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_004_rot15
+gesture_004_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_004_rot-15
+gesture_004_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_004_rot30
+gesture_004_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_004_rot-30
+gesture_004_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_004_scale0.8
+gesture_004_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_004_scale1.2
+gesture_004_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_004_noise10
+gesture_004_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_004_noise25
+gesture_005_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_005_rot15
+gesture_005_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_005_rot-15
+gesture_005_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_005_rot30
+gesture_005_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_005_rot-30
+gesture_005_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_005_scale0.8
+gesture_005_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_005_scale1.2
+gesture_005_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_005_noise10
+gesture_005_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_005_noise25
+gesture_006_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_006_rot15
+gesture_006_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_006_rot-15
+gesture_006_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_006_rot30
+gesture_006_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_006_rot-30
+gesture_006_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_006_scale0.8
+gesture_006_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_006_scale1.2
+gesture_006_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_006_noise10
+gesture_006_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_006_noise25
+gesture_007_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_007_rot15
+gesture_007_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_007_rot-15
+gesture_007_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_007_rot30
+gesture_007_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_007_rot-30
+gesture_007_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_007_scale0.8
+gesture_007_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_007_scale1.2
+gesture_007_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_007_noise10
+gesture_007_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_007_noise25
+gesture_008_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_008_rot15
+gesture_008_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_008_rot-15
+gesture_008_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_008_rot30
+gesture_008_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_008_rot-30
+gesture_008_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_008_scale0.8
+gesture_008_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_008_scale1.2
+gesture_008_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_008_noise10
+gesture_008_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_008_noise25
+gesture_009_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_009_rot15
+gesture_009_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_009_rot-15
+gesture_009_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_009_rot30
+gesture_009_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_009_rot-30
+gesture_009_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_009_scale0.8
+gesture_009_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_009_scale1.2
+gesture_009_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_009_noise10
+gesture_009_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_009_noise25
+gesture_010_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_010_rot15
+gesture_010_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_010_rot-15
+gesture_010_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_010_rot30
+gesture_010_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_010_rot-30
+gesture_010_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_010_scale0.8
+gesture_010_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_010_scale1.2
+gesture_010_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_010_noise10
+gesture_010_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_010_noise25
+gesture_011_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_011_rot15
+gesture_011_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_011_rot-15
+gesture_011_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_011_rot30
+gesture_011_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_011_rot-30
+gesture_011_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_011_scale0.8
+gesture_011_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_011_scale1.2
+gesture_011_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_011_noise10
+gesture_011_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_011_noise25
+gesture_012_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_012_rot15
+gesture_012_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_012_rot-15
+gesture_012_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_012_rot30
+gesture_012_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_012_rot-30
+gesture_012_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_012_scale0.8
+gesture_012_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_012_scale1.2
+gesture_012_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_012_noise10
+gesture_012_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_012_noise25
+gesture_013_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_013_rot15
+gesture_013_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_013_rot-15
+gesture_013_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_013_rot30
+gesture_013_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_013_rot-30
+gesture_013_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_013_scale0.8
+gesture_013_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_013_scale1.2
+gesture_013_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_013_noise10
+gesture_013_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_013_noise25
+gesture_014_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_014_rot15
+gesture_014_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_014_rot-15
+gesture_014_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_014_rot30
+gesture_014_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_014_rot-30
+gesture_014_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_014_scale0.8
+gesture_014_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_014_scale1.2
+gesture_014_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_014_noise10
+gesture_014_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_014_noise25
+gesture_015_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_015_rot15
+gesture_015_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_015_rot-15
+gesture_015_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_015_rot30
+gesture_015_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_015_rot-30
+gesture_015_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_015_scale0.8
+gesture_015_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_015_scale1.2
+gesture_015_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_015_noise10
+gesture_015_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_015_noise25
+gesture_016_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_016_rot15
+gesture_016_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_016_rot-15
+gesture_016_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_016_rot30
+gesture_016_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_016_rot-30
+gesture_016_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_016_scale0.8
+gesture_016_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_016_scale1.2
+gesture_016_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_016_noise10
+gesture_016_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_016_noise25
+gesture_017_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_017_rot15
+gesture_017_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_017_rot-15
+gesture_017_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_017_rot30
+gesture_017_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_017_rot-30
+gesture_017_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_017_scale0.8
+gesture_017_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_017_scale1.2
+gesture_017_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_017_noise10
+gesture_017_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_017_noise25
+gesture_018_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_018_rot15
+gesture_018_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_018_rot-15
+gesture_018_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_018_rot30
+gesture_018_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_018_rot-30
+gesture_018_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_018_scale0.8
+gesture_018_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_018_scale1.2
+gesture_018_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_018_noise10
+gesture_018_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_018_noise25
+gesture_019_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_019_rot15
+gesture_019_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_019_rot-15
+gesture_019_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_019_rot30
+gesture_019_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_019_rot-30
+gesture_019_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_019_scale0.8
+gesture_019_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_019_scale1.2
+gesture_019_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_019_noise10
+gesture_019_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_019_noise25
+gesture_020_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_020_rot15
+gesture_020_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_020_rot-15
+gesture_020_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_020_rot30
+gesture_020_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_020_rot-30
+gesture_020_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_020_scale0.8
+gesture_020_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_020_scale1.2
+gesture_020_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_020_noise10
+gesture_020_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_020_noise25
+gesture_021_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_021_rot15
+gesture_021_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_021_rot-15
+gesture_021_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_021_rot30
+gesture_021_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_021_rot-30
+gesture_021_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_021_scale0.8
+gesture_021_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_021_scale1.2
+gesture_021_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_021_noise10
+gesture_021_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_021_noise25
+gesture_022_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_022_rot15
+gesture_022_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_022_rot-15
+gesture_022_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_022_rot30
+gesture_022_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_022_rot-30
+gesture_022_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_022_scale0.8
+gesture_022_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_022_scale1.2
+gesture_022_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_022_noise10
+gesture_022_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_022_noise25
+gesture_023_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_023_rot15
+gesture_023_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_023_rot-15
+gesture_023_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_023_rot30
+gesture_023_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_023_rot-30
+gesture_023_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_023_scale0.8
+gesture_023_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_023_scale1.2
+gesture_023_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_023_noise10
+gesture_023_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_023_noise25
+gesture_024_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_024_rot15
+gesture_024_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_024_rot-15
+gesture_024_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_024_rot30
+gesture_024_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_024_rot-30
+gesture_024_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_024_scale0.8
+gesture_024_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_024_scale1.2
+gesture_024_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_024_noise10
+gesture_024_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_024_noise25
+gesture_025_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_025_rot15
+gesture_025_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_025_rot-15
+gesture_025_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_025_rot30
+gesture_025_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_025_rot-30
+gesture_025_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_025_scale0.8
+gesture_025_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_025_scale1.2
+gesture_025_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_025_noise10
+gesture_025_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_025_noise25
+gesture_026_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_026_rot15
+gesture_026_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_026_rot-15
+gesture_026_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_026_rot30
+gesture_026_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_026_rot-30
+gesture_026_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_026_scale0.8
+gesture_026_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_026_scale1.2
+gesture_026_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_026_noise10
+gesture_026_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_026_noise25
+gesture_027_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_027_rot15
+gesture_027_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_027_rot-15
+gesture_027_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_027_rot30
+gesture_027_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_027_rot-30
+gesture_027_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_027_scale0.8
+gesture_027_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_027_scale1.2
+gesture_027_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_027_noise10
+gesture_027_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_027_noise25
+gesture_028_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_028_rot15
+gesture_028_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_028_rot-15
+gesture_028_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_028_rot30
+gesture_028_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_028_rot-30
+gesture_028_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_028_scale0.8
+gesture_028_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_028_scale1.2
+gesture_028_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_028_noise10
+gesture_028_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_028_noise25
+gesture_029_rot_15,Swipe_left,4,30,./Gesture Dataset/gesture_029_rot15
+gesture_029_rot_-15,Swipe_left,4,30,./Gesture Dataset/gesture_029_rot-15
+gesture_029_rot_30,Swipe_left,4,30,./Gesture Dataset/gesture_029_rot30
+gesture_029_rot_-30,Swipe_left,4,30,./Gesture Dataset/gesture_029_rot-30
+gesture_029_scale_0.8,Swipe_left,4,30,./Gesture Dataset/gesture_029_scale0.8
+gesture_029_scale_1.2,Swipe_left,4,30,./Gesture Dataset/gesture_029_scale1.2
+gesture_029_noise_10,Swipe_left,4,30,./Gesture Dataset/gesture_029_noise10
+gesture_029_noise_25,Swipe_left,4,30,./Gesture Dataset/gesture_029_noise25
+gesture_000_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_000_rot15
+gesture_000_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_000_rot-15
+gesture_000_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_000_rot30
+gesture_000_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_000_rot-30
+gesture_000_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_000_scale0.8
+gesture_000_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_000_scale1.2
+gesture_000_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_000_noise10
+gesture_000_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_000_noise25
+gesture_001_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_001_rot15
+gesture_001_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_001_rot-15
+gesture_001_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_001_rot30
+gesture_001_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_001_rot-30
+gesture_001_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_001_scale0.8
+gesture_001_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_001_scale1.2
+gesture_001_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_001_noise10
+gesture_001_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_001_noise25
+gesture_002_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_002_rot15
+gesture_002_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_002_rot-15
+gesture_002_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_002_rot30
+gesture_002_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_002_rot-30
+gesture_002_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_002_scale0.8
+gesture_002_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_002_scale1.2
+gesture_002_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_002_noise10
+gesture_002_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_002_noise25
+gesture_003_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_003_rot15
+gesture_003_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_003_rot-15
+gesture_003_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_003_rot30
+gesture_003_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_003_rot-30
+gesture_003_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_003_scale0.8
+gesture_003_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_003_scale1.2
+gesture_003_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_003_noise10
+gesture_003_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_003_noise25
+gesture_004_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_004_rot15
+gesture_004_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_004_rot-15
+gesture_004_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_004_rot30
+gesture_004_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_004_rot-30
+gesture_004_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_004_scale0.8
+gesture_004_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_004_scale1.2
+gesture_004_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_004_noise10
+gesture_004_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_004_noise25
+gesture_005_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_005_rot15
+gesture_005_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_005_rot-15
+gesture_005_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_005_rot30
+gesture_005_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_005_rot-30
+gesture_005_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_005_scale0.8
+gesture_005_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_005_scale1.2
+gesture_005_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_005_noise10
+gesture_005_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_005_noise25
+gesture_006_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_006_rot15
+gesture_006_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_006_rot-15
+gesture_006_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_006_rot30
+gesture_006_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_006_rot-30
+gesture_006_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_006_scale0.8
+gesture_006_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_006_scale1.2
+gesture_006_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_006_noise10
+gesture_006_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_006_noise25
+gesture_007_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_007_rot15
+gesture_007_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_007_rot-15
+gesture_007_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_007_rot30
+gesture_007_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_007_rot-30
+gesture_007_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_007_scale0.8
+gesture_007_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_007_scale1.2
+gesture_007_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_007_noise10
+gesture_007_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_007_noise25
+gesture_008_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_008_rot15
+gesture_008_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_008_rot-15
+gesture_008_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_008_rot30
+gesture_008_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_008_rot-30
+gesture_008_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_008_scale0.8
+gesture_008_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_008_scale1.2
+gesture_008_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_008_noise10
+gesture_008_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_008_noise25
+gesture_009_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_009_rot15
+gesture_009_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_009_rot-15
+gesture_009_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_009_rot30
+gesture_009_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_009_rot-30
+gesture_009_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_009_scale0.8
+gesture_009_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_009_scale1.2
+gesture_009_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_009_noise10
+gesture_009_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_009_noise25
+gesture_010_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_010_rot15
+gesture_010_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_010_rot-15
+gesture_010_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_010_rot30
+gesture_010_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_010_rot-30
+gesture_010_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_010_scale0.8
+gesture_010_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_010_scale1.2
+gesture_010_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_010_noise10
+gesture_010_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_010_noise25
+gesture_011_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_011_rot15
+gesture_011_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_011_rot-15
+gesture_011_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_011_rot30
+gesture_011_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_011_rot-30
+gesture_011_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_011_scale0.8
+gesture_011_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_011_scale1.2
+gesture_011_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_011_noise10
+gesture_011_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_011_noise25
+gesture_012_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_012_rot15
+gesture_012_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_012_rot-15
+gesture_012_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_012_rot30
+gesture_012_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_012_rot-30
+gesture_012_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_012_scale0.8
+gesture_012_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_012_scale1.2
+gesture_012_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_012_noise10
+gesture_012_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_012_noise25
+gesture_013_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_013_rot15
+gesture_013_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_013_rot-15
+gesture_013_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_013_rot30
+gesture_013_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_013_rot-30
+gesture_013_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_013_scale0.8
+gesture_013_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_013_scale1.2
+gesture_013_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_013_noise10
+gesture_013_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_013_noise25
+gesture_014_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_014_rot15
+gesture_014_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_014_rot-15
+gesture_014_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_014_rot30
+gesture_014_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_014_rot-30
+gesture_014_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_014_scale0.8
+gesture_014_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_014_scale1.2
+gesture_014_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_014_noise10
+gesture_014_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_014_noise25
+gesture_015_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_015_rot15
+gesture_015_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_015_rot-15
+gesture_015_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_015_rot30
+gesture_015_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_015_rot-30
+gesture_015_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_015_scale0.8
+gesture_015_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_015_scale1.2
+gesture_015_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_015_noise10
+gesture_015_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_015_noise25
+gesture_016_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_016_rot15
+gesture_016_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_016_rot-15
+gesture_016_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_016_rot30
+gesture_016_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_016_rot-30
+gesture_016_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_016_scale0.8
+gesture_016_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_016_scale1.2
+gesture_016_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_016_noise10
+gesture_016_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_016_noise25
+gesture_017_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_017_rot15
+gesture_017_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_017_rot-15
+gesture_017_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_017_rot30
+gesture_017_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_017_rot-30
+gesture_017_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_017_scale0.8
+gesture_017_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_017_scale1.2
+gesture_017_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_017_noise10
+gesture_017_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_017_noise25
+gesture_018_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_018_rot15
+gesture_018_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_018_rot-15
+gesture_018_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_018_rot30
+gesture_018_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_018_rot-30
+gesture_018_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_018_scale0.8
+gesture_018_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_018_scale1.2
+gesture_018_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_018_noise10
+gesture_018_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_018_noise25
+gesture_019_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_019_rot15
+gesture_019_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_019_rot-15
+gesture_019_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_019_rot30
+gesture_019_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_019_rot-30
+gesture_019_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_019_scale0.8
+gesture_019_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_019_scale1.2
+gesture_019_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_019_noise10
+gesture_019_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_019_noise25
+gesture_020_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_020_rot15
+gesture_020_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_020_rot-15
+gesture_020_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_020_rot30
+gesture_020_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_020_rot-30
+gesture_020_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_020_scale0.8
+gesture_020_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_020_scale1.2
+gesture_020_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_020_noise10
+gesture_020_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_020_noise25
+gesture_021_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_021_rot15
+gesture_021_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_021_rot-15
+gesture_021_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_021_rot30
+gesture_021_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_021_rot-30
+gesture_021_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_021_scale0.8
+gesture_021_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_021_scale1.2
+gesture_021_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_021_noise10
+gesture_021_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_021_noise25
+gesture_022_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_022_rot15
+gesture_022_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_022_rot-15
+gesture_022_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_022_rot30
+gesture_022_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_022_rot-30
+gesture_022_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_022_scale0.8
+gesture_022_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_022_scale1.2
+gesture_022_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_022_noise10
+gesture_022_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_022_noise25
+gesture_023_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_023_rot15
+gesture_023_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_023_rot-15
+gesture_023_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_023_rot30
+gesture_023_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_023_rot-30
+gesture_023_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_023_scale0.8
+gesture_023_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_023_scale1.2
+gesture_023_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_023_noise10
+gesture_023_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_023_noise25
+gesture_024_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_024_rot15
+gesture_024_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_024_rot-15
+gesture_024_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_024_rot30
+gesture_024_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_024_rot-30
+gesture_024_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_024_scale0.8
+gesture_024_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_024_scale1.2
+gesture_024_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_024_noise10
+gesture_024_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_024_noise25
+gesture_025_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_025_rot15
+gesture_025_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_025_rot-15
+gesture_025_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_025_rot30
+gesture_025_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_025_rot-30
+gesture_025_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_025_scale0.8
+gesture_025_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_025_scale1.2
+gesture_025_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_025_noise10
+gesture_025_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_025_noise25
+gesture_026_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_026_rot15
+gesture_026_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_026_rot-15
+gesture_026_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_026_rot30
+gesture_026_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_026_rot-30
+gesture_026_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_026_scale0.8
+gesture_026_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_026_scale1.2
+gesture_026_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_026_noise10
+gesture_026_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_026_noise25
+gesture_027_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_027_rot15
+gesture_027_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_027_rot-15
+gesture_027_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_027_rot30
+gesture_027_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_027_rot-30
+gesture_027_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_027_scale0.8
+gesture_027_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_027_scale1.2
+gesture_027_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_027_noise10
+gesture_027_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_027_noise25
+gesture_028_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_028_rot15
+gesture_028_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_028_rot-15
+gesture_028_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_028_rot30
+gesture_028_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_028_rot-30
+gesture_028_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_028_scale0.8
+gesture_028_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_028_scale1.2
+gesture_028_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_028_noise10
+gesture_028_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_028_noise25
+gesture_029_rot_15,Swipe_right,5,30,./Gesture Dataset/gesture_029_rot15
+gesture_029_rot_-15,Swipe_right,5,30,./Gesture Dataset/gesture_029_rot-15
+gesture_029_rot_30,Swipe_right,5,30,./Gesture Dataset/gesture_029_rot30
+gesture_029_rot_-30,Swipe_right,5,30,./Gesture Dataset/gesture_029_rot-30
+gesture_029_scale_0.8,Swipe_right,5,30,./Gesture Dataset/gesture_029_scale0.8
+gesture_029_scale_1.2,Swipe_right,5,30,./Gesture Dataset/gesture_029_scale1.2
+gesture_029_noise_10,Swipe_right,5,30,./Gesture Dataset/gesture_029_noise10
+gesture_029_noise_25,Swipe_right,5,30,./Gesture Dataset/gesture_029_noise25
+gesture_2_000_rot_15,Index,1,30,./Gesture Dataset/gesture_2_000_rot15
+gesture_2_000_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_000_rot-15
+gesture_2_000_rot_30,Index,1,30,./Gesture Dataset/gesture_2_000_rot30
+gesture_2_000_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_000_rot-30
+gesture_2_000_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_000_scale0.8
+gesture_2_000_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_000_scale1.2
+gesture_2_000_noise_10,Index,1,30,./Gesture Dataset/gesture_2_000_noise10
+gesture_2_000_noise_25,Index,1,30,./Gesture Dataset/gesture_2_000_noise25
+gesture_2_001_rot_15,Index,1,30,./Gesture Dataset/gesture_2_001_rot15
+gesture_2_001_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_001_rot-15
+gesture_2_001_rot_30,Index,1,30,./Gesture Dataset/gesture_2_001_rot30
+gesture_2_001_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_001_rot-30
+gesture_2_001_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_001_scale0.8
+gesture_2_001_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_001_scale1.2
+gesture_2_001_noise_10,Index,1,30,./Gesture Dataset/gesture_2_001_noise10
+gesture_2_001_noise_25,Index,1,30,./Gesture Dataset/gesture_2_001_noise25
+gesture_2_002_rot_15,Index,1,30,./Gesture Dataset/gesture_2_002_rot15
+gesture_2_002_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_002_rot-15
+gesture_2_002_rot_30,Index,1,30,./Gesture Dataset/gesture_2_002_rot30
+gesture_2_002_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_002_rot-30
+gesture_2_002_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_002_scale0.8
+gesture_2_002_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_002_scale1.2
+gesture_2_002_noise_10,Index,1,30,./Gesture Dataset/gesture_2_002_noise10
+gesture_2_002_noise_25,Index,1,30,./Gesture Dataset/gesture_2_002_noise25
+gesture_2_003_rot_15,Index,1,30,./Gesture Dataset/gesture_2_003_rot15
+gesture_2_003_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_003_rot-15
+gesture_2_003_rot_30,Index,1,30,./Gesture Dataset/gesture_2_003_rot30
+gesture_2_003_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_003_rot-30
+gesture_2_003_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_003_scale0.8
+gesture_2_003_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_003_scale1.2
+gesture_2_003_noise_10,Index,1,30,./Gesture Dataset/gesture_2_003_noise10
+gesture_2_003_noise_25,Index,1,30,./Gesture Dataset/gesture_2_003_noise25
+gesture_2_004_rot_15,Index,1,30,./Gesture Dataset/gesture_2_004_rot15
+gesture_2_004_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_004_rot-15
+gesture_2_004_rot_30,Index,1,30,./Gesture Dataset/gesture_2_004_rot30
+gesture_2_004_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_004_rot-30
+gesture_2_004_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_004_scale0.8
+gesture_2_004_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_004_scale1.2
+gesture_2_004_noise_10,Index,1,30,./Gesture Dataset/gesture_2_004_noise10
+gesture_2_004_noise_25,Index,1,30,./Gesture Dataset/gesture_2_004_noise25
+gesture_2_005_rot_15,Index,1,30,./Gesture Dataset/gesture_2_005_rot15
+gesture_2_005_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_005_rot-15
+gesture_2_005_rot_30,Index,1,30,./Gesture Dataset/gesture_2_005_rot30
+gesture_2_005_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_005_rot-30
+gesture_2_005_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_005_scale0.8
+gesture_2_005_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_005_scale1.2
+gesture_2_005_noise_10,Index,1,30,./Gesture Dataset/gesture_2_005_noise10
+gesture_2_005_noise_25,Index,1,30,./Gesture Dataset/gesture_2_005_noise25
+gesture_2_006_rot_15,Index,1,30,./Gesture Dataset/gesture_2_006_rot15
+gesture_2_006_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_006_rot-15
+gesture_2_006_rot_30,Index,1,30,./Gesture Dataset/gesture_2_006_rot30
+gesture_2_006_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_006_rot-30
+gesture_2_006_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_006_scale0.8
+gesture_2_006_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_006_scale1.2
+gesture_2_006_noise_10,Index,1,30,./Gesture Dataset/gesture_2_006_noise10
+gesture_2_006_noise_25,Index,1,30,./Gesture Dataset/gesture_2_006_noise25
+gesture_2_007_rot_15,Index,1,30,./Gesture Dataset/gesture_2_007_rot15
+gesture_2_007_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_007_rot-15
+gesture_2_007_rot_30,Index,1,30,./Gesture Dataset/gesture_2_007_rot30
+gesture_2_007_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_007_rot-30
+gesture_2_007_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_007_scale0.8
+gesture_2_007_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_007_scale1.2
+gesture_2_007_noise_10,Index,1,30,./Gesture Dataset/gesture_2_007_noise10
+gesture_2_007_noise_25,Index,1,30,./Gesture Dataset/gesture_2_007_noise25
+gesture_2_008_rot_15,Index,1,30,./Gesture Dataset/gesture_2_008_rot15
+gesture_2_008_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_008_rot-15
+gesture_2_008_rot_30,Index,1,30,./Gesture Dataset/gesture_2_008_rot30
+gesture_2_008_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_008_rot-30
+gesture_2_008_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_008_scale0.8
+gesture_2_008_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_008_scale1.2
+gesture_2_008_noise_10,Index,1,30,./Gesture Dataset/gesture_2_008_noise10
+gesture_2_008_noise_25,Index,1,30,./Gesture Dataset/gesture_2_008_noise25
+gesture_2_009_rot_15,Index,1,30,./Gesture Dataset/gesture_2_009_rot15
+gesture_2_009_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_009_rot-15
+gesture_2_009_rot_30,Index,1,30,./Gesture Dataset/gesture_2_009_rot30
+gesture_2_009_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_009_rot-30
+gesture_2_009_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_009_scale0.8
+gesture_2_009_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_009_scale1.2
+gesture_2_009_noise_10,Index,1,30,./Gesture Dataset/gesture_2_009_noise10
+gesture_2_009_noise_25,Index,1,30,./Gesture Dataset/gesture_2_009_noise25
+gesture_2_010_rot_15,Index,1,30,./Gesture Dataset/gesture_2_010_rot15
+gesture_2_010_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_010_rot-15
+gesture_2_010_rot_30,Index,1,30,./Gesture Dataset/gesture_2_010_rot30
+gesture_2_010_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_010_rot-30
+gesture_2_010_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_010_scale0.8
+gesture_2_010_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_010_scale1.2
+gesture_2_010_noise_10,Index,1,30,./Gesture Dataset/gesture_2_010_noise10
+gesture_2_010_noise_25,Index,1,30,./Gesture Dataset/gesture_2_010_noise25
+gesture_2_011_rot_15,Index,1,30,./Gesture Dataset/gesture_2_011_rot15
+gesture_2_011_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_011_rot-15
+gesture_2_011_rot_30,Index,1,30,./Gesture Dataset/gesture_2_011_rot30
+gesture_2_011_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_011_rot-30
+gesture_2_011_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_011_scale0.8
+gesture_2_011_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_011_scale1.2
+gesture_2_011_noise_10,Index,1,30,./Gesture Dataset/gesture_2_011_noise10
+gesture_2_011_noise_25,Index,1,30,./Gesture Dataset/gesture_2_011_noise25
+gesture_2_012_rot_15,Index,1,30,./Gesture Dataset/gesture_2_012_rot15
+gesture_2_012_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_012_rot-15
+gesture_2_012_rot_30,Index,1,30,./Gesture Dataset/gesture_2_012_rot30
+gesture_2_012_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_012_rot-30
+gesture_2_012_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_012_scale0.8
+gesture_2_012_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_012_scale1.2
+gesture_2_012_noise_10,Index,1,30,./Gesture Dataset/gesture_2_012_noise10
+gesture_2_012_noise_25,Index,1,30,./Gesture Dataset/gesture_2_012_noise25
+gesture_2_013_rot_15,Index,1,30,./Gesture Dataset/gesture_2_013_rot15
+gesture_2_013_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_013_rot-15
+gesture_2_013_rot_30,Index,1,30,./Gesture Dataset/gesture_2_013_rot30
+gesture_2_013_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_013_rot-30
+gesture_2_013_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_013_scale0.8
+gesture_2_013_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_013_scale1.2
+gesture_2_013_noise_10,Index,1,30,./Gesture Dataset/gesture_2_013_noise10
+gesture_2_013_noise_25,Index,1,30,./Gesture Dataset/gesture_2_013_noise25
+gesture_2_014_rot_15,Index,1,30,./Gesture Dataset/gesture_2_014_rot15
+gesture_2_014_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_014_rot-15
+gesture_2_014_rot_30,Index,1,30,./Gesture Dataset/gesture_2_014_rot30
+gesture_2_014_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_014_rot-30
+gesture_2_014_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_014_scale0.8
+gesture_2_014_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_014_scale1.2
+gesture_2_014_noise_10,Index,1,30,./Gesture Dataset/gesture_2_014_noise10
+gesture_2_014_noise_25,Index,1,30,./Gesture Dataset/gesture_2_014_noise25
+gesture_2_015_rot_15,Index,1,30,./Gesture Dataset/gesture_2_015_rot15
+gesture_2_015_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_015_rot-15
+gesture_2_015_rot_30,Index,1,30,./Gesture Dataset/gesture_2_015_rot30
+gesture_2_015_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_015_rot-30
+gesture_2_015_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_015_scale0.8
+gesture_2_015_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_015_scale1.2
+gesture_2_015_noise_10,Index,1,30,./Gesture Dataset/gesture_2_015_noise10
+gesture_2_015_noise_25,Index,1,30,./Gesture Dataset/gesture_2_015_noise25
+gesture_2_016_rot_15,Index,1,30,./Gesture Dataset/gesture_2_016_rot15
+gesture_2_016_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_016_rot-15
+gesture_2_016_rot_30,Index,1,30,./Gesture Dataset/gesture_2_016_rot30
+gesture_2_016_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_016_rot-30
+gesture_2_016_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_016_scale0.8
+gesture_2_016_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_016_scale1.2
+gesture_2_016_noise_10,Index,1,30,./Gesture Dataset/gesture_2_016_noise10
+gesture_2_016_noise_25,Index,1,30,./Gesture Dataset/gesture_2_016_noise25
+gesture_2_017_rot_15,Index,1,30,./Gesture Dataset/gesture_2_017_rot15
+gesture_2_017_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_017_rot-15
+gesture_2_017_rot_30,Index,1,30,./Gesture Dataset/gesture_2_017_rot30
+gesture_2_017_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_017_rot-30
+gesture_2_017_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_017_scale0.8
+gesture_2_017_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_017_scale1.2
+gesture_2_017_noise_10,Index,1,30,./Gesture Dataset/gesture_2_017_noise10
+gesture_2_017_noise_25,Index,1,30,./Gesture Dataset/gesture_2_017_noise25
+gesture_2_018_rot_15,Index,1,30,./Gesture Dataset/gesture_2_018_rot15
+gesture_2_018_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_018_rot-15
+gesture_2_018_rot_30,Index,1,30,./Gesture Dataset/gesture_2_018_rot30
+gesture_2_018_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_018_rot-30
+gesture_2_018_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_018_scale0.8
+gesture_2_018_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_018_scale1.2
+gesture_2_018_noise_10,Index,1,30,./Gesture Dataset/gesture_2_018_noise10
+gesture_2_018_noise_25,Index,1,30,./Gesture Dataset/gesture_2_018_noise25
+gesture_2_019_rot_15,Index,1,30,./Gesture Dataset/gesture_2_019_rot15
+gesture_2_019_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_019_rot-15
+gesture_2_019_rot_30,Index,1,30,./Gesture Dataset/gesture_2_019_rot30
+gesture_2_019_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_019_rot-30
+gesture_2_019_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_019_scale0.8
+gesture_2_019_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_019_scale1.2
+gesture_2_019_noise_10,Index,1,30,./Gesture Dataset/gesture_2_019_noise10
+gesture_2_019_noise_25,Index,1,30,./Gesture Dataset/gesture_2_019_noise25
+gesture_2_020_rot_15,Index,1,30,./Gesture Dataset/gesture_2_020_rot15
+gesture_2_020_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_020_rot-15
+gesture_2_020_rot_30,Index,1,30,./Gesture Dataset/gesture_2_020_rot30
+gesture_2_020_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_020_rot-30
+gesture_2_020_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_020_scale0.8
+gesture_2_020_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_020_scale1.2
+gesture_2_020_noise_10,Index,1,30,./Gesture Dataset/gesture_2_020_noise10
+gesture_2_020_noise_25,Index,1,30,./Gesture Dataset/gesture_2_020_noise25
+gesture_2_021_rot_15,Index,1,30,./Gesture Dataset/gesture_2_021_rot15
+gesture_2_021_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_021_rot-15
+gesture_2_021_rot_30,Index,1,30,./Gesture Dataset/gesture_2_021_rot30
+gesture_2_021_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_021_rot-30
+gesture_2_021_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_021_scale0.8
+gesture_2_021_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_021_scale1.2
+gesture_2_021_noise_10,Index,1,30,./Gesture Dataset/gesture_2_021_noise10
+gesture_2_021_noise_25,Index,1,30,./Gesture Dataset/gesture_2_021_noise25
+gesture_2_022_rot_15,Index,1,30,./Gesture Dataset/gesture_2_022_rot15
+gesture_2_022_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_022_rot-15
+gesture_2_022_rot_30,Index,1,30,./Gesture Dataset/gesture_2_022_rot30
+gesture_2_022_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_022_rot-30
+gesture_2_022_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_022_scale0.8
+gesture_2_022_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_022_scale1.2
+gesture_2_022_noise_10,Index,1,30,./Gesture Dataset/gesture_2_022_noise10
+gesture_2_022_noise_25,Index,1,30,./Gesture Dataset/gesture_2_022_noise25
+gesture_2_023_rot_15,Index,1,30,./Gesture Dataset/gesture_2_023_rot15
+gesture_2_023_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_023_rot-15
+gesture_2_023_rot_30,Index,1,30,./Gesture Dataset/gesture_2_023_rot30
+gesture_2_023_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_023_rot-30
+gesture_2_023_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_023_scale0.8
+gesture_2_023_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_023_scale1.2
+gesture_2_023_noise_10,Index,1,30,./Gesture Dataset/gesture_2_023_noise10
+gesture_2_023_noise_25,Index,1,30,./Gesture Dataset/gesture_2_023_noise25
+gesture_2_024_rot_15,Index,1,30,./Gesture Dataset/gesture_2_024_rot15
+gesture_2_024_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_024_rot-15
+gesture_2_024_rot_30,Index,1,30,./Gesture Dataset/gesture_2_024_rot30
+gesture_2_024_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_024_rot-30
+gesture_2_024_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_024_scale0.8
+gesture_2_024_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_024_scale1.2
+gesture_2_024_noise_10,Index,1,30,./Gesture Dataset/gesture_2_024_noise10
+gesture_2_024_noise_25,Index,1,30,./Gesture Dataset/gesture_2_024_noise25
+gesture_2_025_rot_15,Index,1,30,./Gesture Dataset/gesture_2_025_rot15
+gesture_2_025_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_025_rot-15
+gesture_2_025_rot_30,Index,1,30,./Gesture Dataset/gesture_2_025_rot30
+gesture_2_025_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_025_rot-30
+gesture_2_025_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_025_scale0.8
+gesture_2_025_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_025_scale1.2
+gesture_2_025_noise_10,Index,1,30,./Gesture Dataset/gesture_2_025_noise10
+gesture_2_025_noise_25,Index,1,30,./Gesture Dataset/gesture_2_025_noise25
+gesture_2_026_rot_15,Index,1,30,./Gesture Dataset/gesture_2_026_rot15
+gesture_2_026_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_026_rot-15
+gesture_2_026_rot_30,Index,1,30,./Gesture Dataset/gesture_2_026_rot30
+gesture_2_026_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_026_rot-30
+gesture_2_026_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_026_scale0.8
+gesture_2_026_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_026_scale1.2
+gesture_2_026_noise_10,Index,1,30,./Gesture Dataset/gesture_2_026_noise10
+gesture_2_026_noise_25,Index,1,30,./Gesture Dataset/gesture_2_026_noise25
+gesture_2_027_rot_15,Index,1,30,./Gesture Dataset/gesture_2_027_rot15
+gesture_2_027_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_027_rot-15
+gesture_2_027_rot_30,Index,1,30,./Gesture Dataset/gesture_2_027_rot30
+gesture_2_027_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_027_rot-30
+gesture_2_027_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_027_scale0.8
+gesture_2_027_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_027_scale1.2
+gesture_2_027_noise_10,Index,1,30,./Gesture Dataset/gesture_2_027_noise10
+gesture_2_027_noise_25,Index,1,30,./Gesture Dataset/gesture_2_027_noise25
+gesture_2_028_rot_15,Index,1,30,./Gesture Dataset/gesture_2_028_rot15
+gesture_2_028_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_028_rot-15
+gesture_2_028_rot_30,Index,1,30,./Gesture Dataset/gesture_2_028_rot30
+gesture_2_028_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_028_rot-30
+gesture_2_028_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_028_scale0.8
+gesture_2_028_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_028_scale1.2
+gesture_2_028_noise_10,Index,1,30,./Gesture Dataset/gesture_2_028_noise10
+gesture_2_028_noise_25,Index,1,30,./Gesture Dataset/gesture_2_028_noise25
+gesture_2_029_rot_15,Index,1,30,./Gesture Dataset/gesture_2_029_rot15
+gesture_2_029_rot_-15,Index,1,30,./Gesture Dataset/gesture_2_029_rot-15
+gesture_2_029_rot_30,Index,1,30,./Gesture Dataset/gesture_2_029_rot30
+gesture_2_029_rot_-30,Index,1,30,./Gesture Dataset/gesture_2_029_rot-30
+gesture_2_029_scale_0.8,Index,1,30,./Gesture Dataset/gesture_2_029_scale0.8
+gesture_2_029_scale_1.2,Index,1,30,./Gesture Dataset/gesture_2_029_scale1.2
+gesture_2_029_noise_10,Index,1,30,./Gesture Dataset/gesture_2_029_noise10
+gesture_2_029_noise_25,Index,1,30,./Gesture Dataset/gesture_2_029_noise25
+gesture_2_000_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_000_rot15
+gesture_2_000_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_000_rot-15
+gesture_2_000_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_000_rot30
+gesture_2_000_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_000_rot-30
+gesture_2_000_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_000_scale0.8
+gesture_2_000_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_000_scale1.2
+gesture_2_000_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_000_noise10
+gesture_2_000_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_000_noise25
+gesture_2_001_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_001_rot15
+gesture_2_001_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_001_rot-15
+gesture_2_001_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_001_rot30
+gesture_2_001_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_001_rot-30
+gesture_2_001_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_001_scale0.8
+gesture_2_001_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_001_scale1.2
+gesture_2_001_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_001_noise10
+gesture_2_001_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_001_noise25
+gesture_2_002_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_002_rot15
+gesture_2_002_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_002_rot-15
+gesture_2_002_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_002_rot30
+gesture_2_002_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_002_rot-30
+gesture_2_002_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_002_scale0.8
+gesture_2_002_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_002_scale1.2
+gesture_2_002_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_002_noise10
+gesture_2_002_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_002_noise25
+gesture_2_003_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_003_rot15
+gesture_2_003_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_003_rot-15
+gesture_2_003_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_003_rot30
+gesture_2_003_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_003_rot-30
+gesture_2_003_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_003_scale0.8
+gesture_2_003_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_003_scale1.2
+gesture_2_003_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_003_noise10
+gesture_2_003_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_003_noise25
+gesture_2_004_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_004_rot15
+gesture_2_004_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_004_rot-15
+gesture_2_004_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_004_rot30
+gesture_2_004_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_004_rot-30
+gesture_2_004_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_004_scale0.8
+gesture_2_004_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_004_scale1.2
+gesture_2_004_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_004_noise10
+gesture_2_004_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_004_noise25
+gesture_2_005_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_005_rot15
+gesture_2_005_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_005_rot-15
+gesture_2_005_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_005_rot30
+gesture_2_005_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_005_rot-30
+gesture_2_005_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_005_scale0.8
+gesture_2_005_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_005_scale1.2
+gesture_2_005_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_005_noise10
+gesture_2_005_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_005_noise25
+gesture_2_006_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_006_rot15
+gesture_2_006_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_006_rot-15
+gesture_2_006_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_006_rot30
+gesture_2_006_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_006_rot-30
+gesture_2_006_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_006_scale0.8
+gesture_2_006_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_006_scale1.2
+gesture_2_006_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_006_noise10
+gesture_2_006_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_006_noise25
+gesture_2_007_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_007_rot15
+gesture_2_007_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_007_rot-15
+gesture_2_007_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_007_rot30
+gesture_2_007_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_007_rot-30
+gesture_2_007_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_007_scale0.8
+gesture_2_007_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_007_scale1.2
+gesture_2_007_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_007_noise10
+gesture_2_007_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_007_noise25
+gesture_2_008_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_008_rot15
+gesture_2_008_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_008_rot-15
+gesture_2_008_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_008_rot30
+gesture_2_008_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_008_rot-30
+gesture_2_008_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_008_scale0.8
+gesture_2_008_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_008_scale1.2
+gesture_2_008_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_008_noise10
+gesture_2_008_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_008_noise25
+gesture_2_009_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_009_rot15
+gesture_2_009_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_009_rot-15
+gesture_2_009_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_009_rot30
+gesture_2_009_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_009_rot-30
+gesture_2_009_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_009_scale0.8
+gesture_2_009_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_009_scale1.2
+gesture_2_009_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_009_noise10
+gesture_2_009_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_009_noise25
+gesture_2_010_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_010_rot15
+gesture_2_010_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_010_rot-15
+gesture_2_010_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_010_rot30
+gesture_2_010_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_010_rot-30
+gesture_2_010_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_010_scale0.8
+gesture_2_010_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_010_scale1.2
+gesture_2_010_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_010_noise10
+gesture_2_010_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_010_noise25
+gesture_2_011_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_011_rot15
+gesture_2_011_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_011_rot-15
+gesture_2_011_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_011_rot30
+gesture_2_011_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_011_rot-30
+gesture_2_011_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_011_scale0.8
+gesture_2_011_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_011_scale1.2
+gesture_2_011_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_011_noise10
+gesture_2_011_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_011_noise25
+gesture_2_012_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_012_rot15
+gesture_2_012_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_012_rot-15
+gesture_2_012_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_012_rot30
+gesture_2_012_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_012_rot-30
+gesture_2_012_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_012_scale0.8
+gesture_2_012_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_012_scale1.2
+gesture_2_012_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_012_noise10
+gesture_2_012_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_012_noise25
+gesture_2_013_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_013_rot15
+gesture_2_013_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_013_rot-15
+gesture_2_013_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_013_rot30
+gesture_2_013_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_013_rot-30
+gesture_2_013_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_013_scale0.8
+gesture_2_013_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_013_scale1.2
+gesture_2_013_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_013_noise10
+gesture_2_013_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_013_noise25
+gesture_2_014_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_014_rot15
+gesture_2_014_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_014_rot-15
+gesture_2_014_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_014_rot30
+gesture_2_014_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_014_rot-30
+gesture_2_014_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_014_scale0.8
+gesture_2_014_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_014_scale1.2
+gesture_2_014_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_014_noise10
+gesture_2_014_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_014_noise25
+gesture_2_015_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_015_rot15
+gesture_2_015_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_015_rot-15
+gesture_2_015_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_015_rot30
+gesture_2_015_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_015_rot-30
+gesture_2_015_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_015_scale0.8
+gesture_2_015_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_015_scale1.2
+gesture_2_015_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_015_noise10
+gesture_2_015_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_015_noise25
+gesture_2_016_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_016_rot15
+gesture_2_016_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_016_rot-15
+gesture_2_016_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_016_rot30
+gesture_2_016_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_016_rot-30
+gesture_2_016_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_016_scale0.8
+gesture_2_016_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_016_scale1.2
+gesture_2_016_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_016_noise10
+gesture_2_016_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_016_noise25
+gesture_2_017_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_017_rot15
+gesture_2_017_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_017_rot-15
+gesture_2_017_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_017_rot30
+gesture_2_017_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_017_rot-30
+gesture_2_017_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_017_scale0.8
+gesture_2_017_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_017_scale1.2
+gesture_2_017_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_017_noise10
+gesture_2_017_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_017_noise25
+gesture_2_018_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_018_rot15
+gesture_2_018_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_018_rot-15
+gesture_2_018_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_018_rot30
+gesture_2_018_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_018_rot-30
+gesture_2_018_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_018_scale0.8
+gesture_2_018_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_018_scale1.2
+gesture_2_018_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_018_noise10
+gesture_2_018_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_018_noise25
+gesture_2_019_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_019_rot15
+gesture_2_019_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_019_rot-15
+gesture_2_019_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_019_rot30
+gesture_2_019_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_019_rot-30
+gesture_2_019_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_019_scale0.8
+gesture_2_019_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_019_scale1.2
+gesture_2_019_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_019_noise10
+gesture_2_019_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_019_noise25
+gesture_2_020_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_020_rot15
+gesture_2_020_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_020_rot-15
+gesture_2_020_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_020_rot30
+gesture_2_020_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_020_rot-30
+gesture_2_020_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_020_scale0.8
+gesture_2_020_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_020_scale1.2
+gesture_2_020_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_020_noise10
+gesture_2_020_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_020_noise25
+gesture_2_021_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_021_rot15
+gesture_2_021_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_021_rot-15
+gesture_2_021_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_021_rot30
+gesture_2_021_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_021_rot-30
+gesture_2_021_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_021_scale0.8
+gesture_2_021_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_021_scale1.2
+gesture_2_021_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_021_noise10
+gesture_2_021_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_021_noise25
+gesture_2_022_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_022_rot15
+gesture_2_022_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_022_rot-15
+gesture_2_022_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_022_rot30
+gesture_2_022_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_022_rot-30
+gesture_2_022_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_022_scale0.8
+gesture_2_022_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_022_scale1.2
+gesture_2_022_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_022_noise10
+gesture_2_022_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_022_noise25
+gesture_2_023_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_023_rot15
+gesture_2_023_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_023_rot-15
+gesture_2_023_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_023_rot30
+gesture_2_023_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_023_rot-30
+gesture_2_023_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_023_scale0.8
+gesture_2_023_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_023_scale1.2
+gesture_2_023_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_023_noise10
+gesture_2_023_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_023_noise25
+gesture_2_024_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_024_rot15
+gesture_2_024_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_024_rot-15
+gesture_2_024_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_024_rot30
+gesture_2_024_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_024_rot-30
+gesture_2_024_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_024_scale0.8
+gesture_2_024_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_024_scale1.2
+gesture_2_024_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_024_noise10
+gesture_2_024_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_024_noise25
+gesture_2_025_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_025_rot15
+gesture_2_025_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_025_rot-15
+gesture_2_025_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_025_rot30
+gesture_2_025_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_025_rot-30
+gesture_2_025_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_025_scale0.8
+gesture_2_025_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_025_scale1.2
+gesture_2_025_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_025_noise10
+gesture_2_025_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_025_noise25
+gesture_2_026_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_026_rot15
+gesture_2_026_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_026_rot-15
+gesture_2_026_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_026_rot30
+gesture_2_026_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_026_rot-30
+gesture_2_026_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_026_scale0.8
+gesture_2_026_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_026_scale1.2
+gesture_2_026_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_026_noise10
+gesture_2_026_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_026_noise25
+gesture_2_027_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_027_rot15
+gesture_2_027_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_027_rot-15
+gesture_2_027_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_027_rot30
+gesture_2_027_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_027_rot-30
+gesture_2_027_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_027_scale0.8
+gesture_2_027_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_027_scale1.2
+gesture_2_027_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_027_noise10
+gesture_2_027_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_027_noise25
+gesture_2_028_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_028_rot15
+gesture_2_028_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_028_rot-15
+gesture_2_028_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_028_rot30
+gesture_2_028_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_028_rot-30
+gesture_2_028_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_028_scale0.8
+gesture_2_028_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_028_scale1.2
+gesture_2_028_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_028_noise10
+gesture_2_028_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_028_noise25
+gesture_2_029_rot_15,L_shape,2,30,./Gesture Dataset/gesture_2_029_rot15
+gesture_2_029_rot_-15,L_shape,2,30,./Gesture Dataset/gesture_2_029_rot-15
+gesture_2_029_rot_30,L_shape,2,30,./Gesture Dataset/gesture_2_029_rot30
+gesture_2_029_rot_-30,L_shape,2,30,./Gesture Dataset/gesture_2_029_rot-30
+gesture_2_029_scale_0.8,L_shape,2,30,./Gesture Dataset/gesture_2_029_scale0.8
+gesture_2_029_scale_1.2,L_shape,2,30,./Gesture Dataset/gesture_2_029_scale1.2
+gesture_2_029_noise_10,L_shape,2,30,./Gesture Dataset/gesture_2_029_noise10
+gesture_2_029_noise_25,L_shape,2,30,./Gesture Dataset/gesture_2_029_noise25
+gesture_2_000_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_000_rot15
+gesture_2_000_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_000_rot-15
+gesture_2_000_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_000_rot30
+gesture_2_000_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_000_rot-30
+gesture_2_000_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_000_scale0.8
+gesture_2_000_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_000_scale1.2
+gesture_2_000_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_000_noise10
+gesture_2_000_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_000_noise25
+gesture_2_001_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_001_rot15
+gesture_2_001_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_001_rot-15
+gesture_2_001_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_001_rot30
+gesture_2_001_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_001_rot-30
+gesture_2_001_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_001_scale0.8
+gesture_2_001_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_001_scale1.2
+gesture_2_001_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_001_noise10
+gesture_2_001_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_001_noise25
+gesture_2_002_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_002_rot15
+gesture_2_002_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_002_rot-15
+gesture_2_002_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_002_rot30
+gesture_2_002_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_002_rot-30
+gesture_2_002_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_002_scale0.8
+gesture_2_002_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_002_scale1.2
+gesture_2_002_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_002_noise10
+gesture_2_002_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_002_noise25
+gesture_2_003_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_003_rot15
+gesture_2_003_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_003_rot-15
+gesture_2_003_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_003_rot30
+gesture_2_003_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_003_rot-30
+gesture_2_003_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_003_scale0.8
+gesture_2_003_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_003_scale1.2
+gesture_2_003_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_003_noise10
+gesture_2_003_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_003_noise25
+gesture_2_004_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_004_rot15
+gesture_2_004_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_004_rot-15
+gesture_2_004_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_004_rot30
+gesture_2_004_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_004_rot-30
+gesture_2_004_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_004_scale0.8
+gesture_2_004_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_004_scale1.2
+gesture_2_004_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_004_noise10
+gesture_2_004_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_004_noise25
+gesture_2_005_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_005_rot15
+gesture_2_005_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_005_rot-15
+gesture_2_005_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_005_rot30
+gesture_2_005_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_005_rot-30
+gesture_2_005_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_005_scale0.8
+gesture_2_005_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_005_scale1.2
+gesture_2_005_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_005_noise10
+gesture_2_005_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_005_noise25
+gesture_2_006_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_006_rot15
+gesture_2_006_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_006_rot-15
+gesture_2_006_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_006_rot30
+gesture_2_006_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_006_rot-30
+gesture_2_006_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_006_scale0.8
+gesture_2_006_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_006_scale1.2
+gesture_2_006_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_006_noise10
+gesture_2_006_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_006_noise25
+gesture_2_007_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_007_rot15
+gesture_2_007_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_007_rot-15
+gesture_2_007_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_007_rot30
+gesture_2_007_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_007_rot-30
+gesture_2_007_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_007_scale0.8
+gesture_2_007_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_007_scale1.2
+gesture_2_007_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_007_noise10
+gesture_2_007_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_007_noise25
+gesture_2_008_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_008_rot15
+gesture_2_008_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_008_rot-15
+gesture_2_008_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_008_rot30
+gesture_2_008_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_008_rot-30
+gesture_2_008_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_008_scale0.8
+gesture_2_008_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_008_scale1.2
+gesture_2_008_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_008_noise10
+gesture_2_008_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_008_noise25
+gesture_2_009_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_009_rot15
+gesture_2_009_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_009_rot-15
+gesture_2_009_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_009_rot30
+gesture_2_009_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_009_rot-30
+gesture_2_009_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_009_scale0.8
+gesture_2_009_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_009_scale1.2
+gesture_2_009_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_009_noise10
+gesture_2_009_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_009_noise25
+gesture_2_010_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_010_rot15
+gesture_2_010_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_010_rot-15
+gesture_2_010_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_010_rot30
+gesture_2_010_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_010_rot-30
+gesture_2_010_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_010_scale0.8
+gesture_2_010_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_010_scale1.2
+gesture_2_010_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_010_noise10
+gesture_2_010_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_010_noise25
+gesture_2_011_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_011_rot15
+gesture_2_011_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_011_rot-15
+gesture_2_011_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_011_rot30
+gesture_2_011_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_011_rot-30
+gesture_2_011_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_011_scale0.8
+gesture_2_011_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_011_scale1.2
+gesture_2_011_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_011_noise10
+gesture_2_011_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_011_noise25
+gesture_2_012_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_012_rot15
+gesture_2_012_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_012_rot-15
+gesture_2_012_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_012_rot30
+gesture_2_012_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_012_rot-30
+gesture_2_012_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_012_scale0.8
+gesture_2_012_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_012_scale1.2
+gesture_2_012_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_012_noise10
+gesture_2_012_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_012_noise25
+gesture_2_013_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_013_rot15
+gesture_2_013_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_013_rot-15
+gesture_2_013_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_013_rot30
+gesture_2_013_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_013_rot-30
+gesture_2_013_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_013_scale0.8
+gesture_2_013_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_013_scale1.2
+gesture_2_013_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_013_noise10
+gesture_2_013_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_013_noise25
+gesture_2_014_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_014_rot15
+gesture_2_014_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_014_rot-15
+gesture_2_014_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_014_rot30
+gesture_2_014_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_014_rot-30
+gesture_2_014_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_014_scale0.8
+gesture_2_014_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_014_scale1.2
+gesture_2_014_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_014_noise10
+gesture_2_014_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_014_noise25
+gesture_2_015_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_015_rot15
+gesture_2_015_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_015_rot-15
+gesture_2_015_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_015_rot30
+gesture_2_015_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_015_rot-30
+gesture_2_015_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_015_scale0.8
+gesture_2_015_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_015_scale1.2
+gesture_2_015_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_015_noise10
+gesture_2_015_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_015_noise25
+gesture_2_016_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_016_rot15
+gesture_2_016_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_016_rot-15
+gesture_2_016_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_016_rot30
+gesture_2_016_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_016_rot-30
+gesture_2_016_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_016_scale0.8
+gesture_2_016_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_016_scale1.2
+gesture_2_016_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_016_noise10
+gesture_2_016_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_016_noise25
+gesture_2_017_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_017_rot15
+gesture_2_017_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_017_rot-15
+gesture_2_017_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_017_rot30
+gesture_2_017_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_017_rot-30
+gesture_2_017_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_017_scale0.8
+gesture_2_017_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_017_scale1.2
+gesture_2_017_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_017_noise10
+gesture_2_017_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_017_noise25
+gesture_2_018_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_018_rot15
+gesture_2_018_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_018_rot-15
+gesture_2_018_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_018_rot30
+gesture_2_018_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_018_rot-30
+gesture_2_018_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_018_scale0.8
+gesture_2_018_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_018_scale1.2
+gesture_2_018_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_018_noise10
+gesture_2_018_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_018_noise25
+gesture_2_019_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_019_rot15
+gesture_2_019_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_019_rot-15
+gesture_2_019_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_019_rot30
+gesture_2_019_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_019_rot-30
+gesture_2_019_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_019_scale0.8
+gesture_2_019_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_019_scale1.2
+gesture_2_019_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_019_noise10
+gesture_2_019_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_019_noise25
+gesture_2_020_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_020_rot15
+gesture_2_020_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_020_rot-15
+gesture_2_020_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_020_rot30
+gesture_2_020_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_020_rot-30
+gesture_2_020_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_020_scale0.8
+gesture_2_020_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_020_scale1.2
+gesture_2_020_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_020_noise10
+gesture_2_020_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_020_noise25
+gesture_2_021_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_021_rot15
+gesture_2_021_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_021_rot-15
+gesture_2_021_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_021_rot30
+gesture_2_021_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_021_rot-30
+gesture_2_021_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_021_scale0.8
+gesture_2_021_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_021_scale1.2
+gesture_2_021_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_021_noise10
+gesture_2_021_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_021_noise25
+gesture_2_022_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_022_rot15
+gesture_2_022_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_022_rot-15
+gesture_2_022_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_022_rot30
+gesture_2_022_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_022_rot-30
+gesture_2_022_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_022_scale0.8
+gesture_2_022_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_022_scale1.2
+gesture_2_022_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_022_noise10
+gesture_2_022_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_022_noise25
+gesture_2_023_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_023_rot15
+gesture_2_023_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_023_rot-15
+gesture_2_023_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_023_rot30
+gesture_2_023_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_023_rot-30
+gesture_2_023_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_023_scale0.8
+gesture_2_023_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_023_scale1.2
+gesture_2_023_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_023_noise10
+gesture_2_023_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_023_noise25
+gesture_2_024_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_024_rot15
+gesture_2_024_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_024_rot-15
+gesture_2_024_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_024_rot30
+gesture_2_024_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_024_rot-30
+gesture_2_024_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_024_scale0.8
+gesture_2_024_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_024_scale1.2
+gesture_2_024_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_024_noise10
+gesture_2_024_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_024_noise25
+gesture_2_025_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_025_rot15
+gesture_2_025_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_025_rot-15
+gesture_2_025_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_025_rot30
+gesture_2_025_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_025_rot-30
+gesture_2_025_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_025_scale0.8
+gesture_2_025_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_025_scale1.2
+gesture_2_025_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_025_noise10
+gesture_2_025_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_025_noise25
+gesture_2_026_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_026_rot15
+gesture_2_026_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_026_rot-15
+gesture_2_026_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_026_rot30
+gesture_2_026_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_026_rot-30
+gesture_2_026_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_026_scale0.8
+gesture_2_026_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_026_scale1.2
+gesture_2_026_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_026_noise10
+gesture_2_026_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_026_noise25
+gesture_2_027_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_027_rot15
+gesture_2_027_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_027_rot-15
+gesture_2_027_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_027_rot30
+gesture_2_027_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_027_rot-30
+gesture_2_027_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_027_scale0.8
+gesture_2_027_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_027_scale1.2
+gesture_2_027_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_027_noise10
+gesture_2_027_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_027_noise25
+gesture_2_028_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_028_rot15
+gesture_2_028_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_028_rot-15
+gesture_2_028_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_028_rot30
+gesture_2_028_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_028_rot-30
+gesture_2_028_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_028_scale0.8
+gesture_2_028_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_028_scale1.2
+gesture_2_028_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_028_noise10
+gesture_2_028_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_028_noise25
+gesture_2_029_rot_15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_029_rot15
+gesture_2_029_rot_-15,Close_L_shape,3,30,./Gesture Dataset/gesture_2_029_rot-15
+gesture_2_029_rot_30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_029_rot30
+gesture_2_029_rot_-30,Close_L_shape,3,30,./Gesture Dataset/gesture_2_029_rot-30
+gesture_2_029_scale_0.8,Close_L_shape,3,30,./Gesture Dataset/gesture_2_029_scale0.8
+gesture_2_029_scale_1.2,Close_L_shape,3,30,./Gesture Dataset/gesture_2_029_scale1.2
+gesture_2_029_noise_10,Close_L_shape,3,30,./Gesture Dataset/gesture_2_029_noise10
+gesture_2_029_noise_25,Close_L_shape,3,30,./Gesture Dataset/gesture_2_029_noise25
